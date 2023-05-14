@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#%%
 import re
 import os
 import json
@@ -34,6 +34,13 @@ f.close()
 base_df = pd.read_excel(os.path.join(raw_data_path, origin_data_path), sheet_name=0).iloc[:-2]
 for sheet_name in range(1991, 2023):
     df_tmp = pd.read_excel(os.path.join(raw_data_path, origin_data_path), sheet_name=str(sheet_name)).iloc[:-2]
+    df_tmp = df_tmp.dropna()
+    df_tmp['Rank'] = [i + 1 for i in range(df_tmp.shape[0])]
     base_df = pd.concat([base_df, df_tmp], ignore_index = True)
+#%%
+base_df.dropna().to_csv(os.path.join(processed_data_path, arranged_data_path), index=False)
+# base_df.to_csv(os.path.join(processed_data_path, arranged_data_path), index=False)
 
-base_df.to_csv(os.path.join(processed_data_path, arranged_data_path), index=False)
+
+
+# %%
