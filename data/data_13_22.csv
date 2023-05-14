@@ -1,1 +1,2011 @@
-Rank,Movie,Release,Distributor,Genre,Gross,Tickets Sold,rank,releaseYear
+Movie;Distributor;Genre;Gross;Tickets Sold;rank;releaseYear
+Iron Man 3;Walt Disney;Action;408992272;50306552;1;2013
+The Hunger Games: Catching ...;Lionsgate;Adventure;407139699;50078683;2;2013
+Despicable Me 2;Universal;Adventure;367956735;45259130;3;2013
+Frozen;Walt Disney;Musical;296691729;36493447;4;2013
+Man of Steel;Warner Bros.;Action;291045518;35798956;5;2013
+Monsters University;Walt Disney;Adventure;268488329;33024394;6;2013
+Gravity;Warner Bros.;Thriller/Suspense;255621667;31441779;7;2013
+Fast and Furious 6;Universal;Action;238679850;29357915;8;2013
+Oz the Great and Powerful;Walt Disney;Adventure;234770996;28877121;9;2013
+The Hobbit: The Desolation ...;Warner Bros.;Adventure;228934309;28159201;10;2013
+Star Trek Into Darkness;Paramount Pictures;Adventure;228778661;28140056;11;2013
+Thor: The Dark World;Walt Disney;Action;203449204;25024502;12;2013
+World War Z;Paramount Pictures;Action;202359711;24890493;13;2013
+The Croods;20th Century Fox;Adventure;187168425;23021946;14;2013
+The Heat;20th Century Fox;Comedy;159581587;19628731;15;2013
+We're the Millers;Warner Bros.;Comedy;150394119;18498661;16;2013
+The Great Gatsby;Warner Bros.;Drama;144840419;17815549;17;2013
+The Conjuring;Warner Bros.;Horror;137400141;16900386;18;2013
+Identity Thief;Universal;Comedy;134506920;16544516;19;2013
+Grown Ups 2;Sony Pictures;Comedy;133668525;16441392;20;2013
+The Wolverine;20th Century Fox;Action;132556852;16304655;21;2013
+G.I. Joe: Retaliation;Paramount Pictures;Action;122523060;15070487;22;2013
+Now You See Me;Lionsgate;Thriller/Suspense;117723989;14480195;23;2013
+Cloudy with a Chance of Mea...;Sony Pictures;Adventure;117614237;14466695;24;2013
+Lee Daniels' The Butler;Weinstein Co.;Drama;116293662;14304263;25;2013
+The Hangover 3;Warner Bros.;Comedy;112200072;13800746;26;2013
+Anchorman 2: The Legend Con...;Paramount Pictures;Comedy;108773941;13379328;27;2013
+Epic;20th Century Fox;Adventure;107518682;13224930;28;2013
+Captain Phillips;Sony Pictures;Drama;104834734;12894801;29;2013
+Pacific Rim;Warner Bros.;Action;101802906;12521882;30;2013
+Jackass Presents: Bad Grandpa;Paramount Pictures;Comedy;101625444;12500054;31;2013
+This is the End;Sony Pictures;Comedy;101470202;12480959;32;2013
+Olympus Has Fallen;FilmDistrict;Thriller/Suspense;98927592;12168215;33;2013
+Silver Linings Playbook;Weinstein Co.;Drama;97416189;11982311;34;2013
+42;Warner Bros.;Drama;95020213;11687603;35;2013
+Elysium;Sony Pictures;Action;93050117;11445278;36;2013
+Zero Dark Thirty;Sony Pictures;Thriller/Suspense;91314578;11231805;37;2013
+Disney Planes;Walt Disney;Adventure;90282580;11104868;38;2013
+The Lone Ranger;Walt Disney;Western;89302115;10984269;39;2013
+Oblivion;Universal;Thriller/Suspense;89107235;10960299;40;2013
+American Hustle;Sony Pictures;Black Comedy;87903772;10812272;41;2013
+Insidious Chapter 2;FilmDistrict;Horror;83586447;10281235;42;2013
+Turbo;20th Century Fox;Adventure;83028130;10212562;43;2013
+2 Guns;Universal;Action;75612460;9300425;44;2013
+White House Down;Sony Pictures;Thriller/Suspense;73103784;8991855;45;2013
+Mama;Universal;Horror;71628180;8810354;46;2013
+Safe Haven;Relativity;Drama;71399120;8782179;47;2013
+The Smurfs 2;Sony Pictures;Adventure;71017784;8735274;48;2013
+The Best Man Holiday;Universal;Comedy;70492685;8670686;49;2013
+Percy Jackson: Sea of Monsters;20th Century Fox;Adventure;68518210;8427824;50;2013
+A Good Day to Die Hard;20th Century Fox;Action;67349198;8284034;51;2013
+Warm Bodies;Lionsgate;Romantic Comedy;66380662;8164903;52;2013
+Jack the Giant Slayer;Warner Bros.;Adventure;65187603;8018155;53;2013
+The Purge;Universal;Horror;64473115;7930272;54;2013
+The Wolf of Wall Street;Paramount Pictures;Black Comedy;63173956;7770474;55;2013
+Last Vegas;CBS Films;Comedy;63112318;7762892;56;2013
+Ender's Game;Lionsgate;Adventure;61656849;7583868;57;2013
+Prisoners;Warner Bros.;Thriller/Suspense;61002302;7503358;58;2013
+After Earth;Sony Pictures;Action;60522097;7444292;59;2013
+Saving Mr. Banks;Walt Disney;Drama;58958280;7251940;60;2013
+Escape From Planet Earth;Weinstein Co.;Adventure;57012977;7012666;61;2013
+Django Unchained;Weinstein Co.;Western;56525312;6952682;62;2013
+Hansel & Gretel: Witch Hunters;Paramount Pictures;Action;55703475;6851595;63;2013
+Free Birds;Relativity;Adventure;54894525;6752094;64;2013
+Evil Dead;Sony Pictures;Horror;54239856;6671569;65;2013
+RED 2;Lionsgate;Action;53262560;6551360;66;2013
+Tyler Perry's Temptation;Lionsgate;Drama;51975354;6393032;67;2013
+The Call;Sony Pictures;Thriller/Suspense;51872378;6380366;68;2013
+Tyler Perry's A Madea Chris...;Lionsgate;Comedy;50227277;6178016;69;2013
+Pain & Gain;Paramount Pictures;Action;49875291;6134722;70;2013
+Gangster Squad;Warner Bros.;Action;46000903;5658167;71;2013
+The Secret Life of Walter M...;20th Century Fox;Adventure;45470954;5592983;72;2013
+Jurassic Park;Universal;Adventure;45385935;5582525;73;2013
+Les Misérables;Universal;Musical;45306730;5572783;74;2013
+The Internship;20th Century Fox;Comedy;44672764;5494804;75;2013
+Instructions Not Included;Lionsgate;Comedy;44467206;5469521;76;2013
+Snitch;Lionsgate;Thriller/Suspense;42930462;5280499;77;2013
+Riddick;Universal;Action;42025135;5169143;78;2013
+A Haunted House;Open Road;Comedy;40041683;4925176;79;2013
+The Hobbit: An Unexpected J...;Warner Bros.;Adventure;39168675;4817795;80;2013
+12 Years a Slave;Fox Searchlight;Drama;38472086;4732113;81;2013
+Lincoln;Walt Disney;Drama;38118927;4688674;82;2013
+The Family;Relativity;Black Comedy;36917730;4540926;83;2013
+Carrie;Sony Pictures;Horror;35266619;4337837;84;2013
+Life of Pi;20th Century Fox;Drama;33947534;4175588;85;2013
+R.I.P.D.;Universal;Action;33618855;4135160;86;2013
+Blue Jasmine;Sony Pictures Cla...;Comedy;32744634;4027630;87;2013
+47 Ronin;Universal;Action;32687680;4020624;88;2013
+Kevin Hart: Let Me Explain;Lionsgate;Concert/Perfor...;32244051;3966057;89;2013
+Side Effects;Open Road;Thriller/Suspense;32172757;3957288;90;2013
+Scary Movie 5;Weinstein Co.;Comedy;32015787;3937981;91;2013
+Walking with Dinosaurs;20th Century Fox;Adventure;31344185;3855373;92;2013
+The Mortal Instruments: Cit...;Sony Pictures;Adventure;31165421;3833385;93;2013
+Delivery Man;Walt Disney;Comedy;29866438;3673608;94;2013
+One Direction: This is Us;Sony Pictures;Concert/Perfor...;28873374;3551460;95;2013
+Kick-Ass 2;Universal;Action;28795985;3541941;96;2013
+Rush;Universal;Drama;26947624;3314590;97;2013
+The Host;Open Road;Thriller/Suspense;26623701;3274747;98;2013
+The World's End;Focus Features;Comedy;26004851;3198628;99;2013
+Argo;Warner Bros.;Thriller/Suspense;25918584;3188017;100;2013
+21 and Over;Relativity;Comedy;25682380;3158964;101;2013
+Escape Plan;Lionsgate;Thriller/Suspense;25063555;3082848;102;2013
+Parental Guidance;20th Century Fox;Adventure;24927598;3066125;103;2013
+Grudge Match;Warner Bros.;Comedy;24846211;3056114;104;2013
+Don Jon;Relativity;Romantic Comedy;24475193;3010478;105;2013
+The Incredible Burt Wonders...;Warner Bros.;Comedy;22537881;2772187;106;2013
+The Big Wedding;Lionsgate;Romantic Comedy;21819348;2683806;107;2013
+Mud;Roadside Attractions;Drama;21590086;2655607;108;2013
+Baggage Claim;Fox Searchlight;Romantic Comedy;21569509;2653076;109;2013
+The Way Way Back;Fox Searchlight;Comedy;21502690;2644857;110;2013
+The Place Beyond the Pines;Focus Features;Drama;21403519;2632659;111;2013
+Homefront;Open Road;Action;20158492;2479519;112;2013
+Broken City;20th Century Fox;Thriller/Suspense;19701164;2423267;113;2013
+Philomena;Weinstein Co.;Drama;19586311;2409140;114;2013
+Beautiful Creatures;Warner Bros.;Drama;19452138;2392636;115;2013
+Runner Runner;20th Century Fox;Thriller/Suspense;19316646;2375971;116;2013
+The Book Thief;20th Century Fox;Drama;19091819;2348317;117;2013
+You're Next;Lionsgate;Horror;18494006;2274785;118;2013
+Quartet;Weinstein Co.;Comedy;18388357;2261790;119;2013
+Admission;Focus Features;Romantic Comedy;18007317;2214922;120;2013
+Parker;FilmDistrict;Thriller/Suspense;17616641;2166868;121;2013
+Enough Said;Fox Searchlight;Comedy;17497669;2152234;122;2013
+Dark Skies;Weinstein Co.;Horror;17418667;2142517;123;2013
+The Counselor;20th Century Fox;Thriller/Suspense;16960224;2086128;124;2013
+Dallas Buyers Club;Focus Features;Drama;16300843;2005023;125;2013
+Jobs;Open Road;Drama;16131410;1984183;126;2013
+Fruitvale Station;Weinstein Co.;Drama;16098998;1980196;127;2013
+The Impossible;Lionsgate;Drama;15607469;1919737;128;2013
+Jack Reacher;Paramount Pictures;Thriller/Suspense;15373522;1890962;129;2013
+About Time;Universal;Romantic Comedy;15323921;1884861;130;2013
+The Last Exorcism Part II;CBS Films;Horror;15179303;1867072;131;2013
+Spring Breakers;A24;Thriller/Suspense;14124286;1737304;132;2013
+This is 40;Universal;Comedy;13289310;1634601;133;2013
+Texas Chainsaw 3D;Lionsgate;Horror;12597475;1549504;134;2013
+The Last Stand;Lionsgate;Action;12050299;1482201;135;2013
+Out of the Furnace;Relativity;Drama;11187536;1376080;136;2013
+Wreck-It Ralph;Walt Disney;Adventure;10911037;1342070;137;2013
+Dead Man Down;FilmDistrict;Thriller/Suspense;10895295;1340134;138;2013
+Getaway;Warner Bros.;Thriller/Suspense;10501938;1291751;139;2013
+Bullet to the Head;Warner Bros.;Action;9489829;1167260;140;2013
+Peeples;Lionsgate;Romantic Comedy;9177065;1128790;141;2013
+Battle of the Year 3D;Sony Pictures;Drama;8888355;1093278;142;2013
+Movie 43;Relativity;Comedy;8840453;1087386;143;2013
+Before Midnight;Sony Pictures Cla...;Drama;8110621;997616;144;2013
+Machete Kills;Open Road;Action;8008161;985013;145;2013
+Dhoom 3;Yash Raj Films;Action;7846872;965174;146;2013
+Inside Llewyn Davis;CBS Films;Drama;7757978;954240;147;2013
+Skyfall;Sony Pictures;Action;7555911;929386;148;2013
+Paranoia;Relativity;Thriller/Suspense;7388654;908813;149;2013
+Mandela: Long Walk to Freedom;Weinstein Co.;Drama;7061587;868583;150;2013
+Black Nativity;20th Century Fox;Musical;7012316;862523;151;2013
+Nebraska;Paramount Pictures;Drama;7003296;861414;152;2013
+The Spectacular Now;A24;Drama;6852971;842923;153;2013
+The Grandmaster;Weinstein Co.;Action;6594959;811188;154;2013
+Amour;Sony Pictures Cla...;Drama;6427707;790615;155;2013
+Rise of the Guardians;Paramount Pictures;Adventure;6185091;760773;156;2013
+All is Lost;Roadside Attractions;Thriller/Suspense;6047207;743813;157;2013
+The Guilt Trip;Paramount Pictures;Comedy;6022333;740754;158;2013
+Justin Bieber's Believe;Open Road;Documentary;5962982;733454;159;2013
+The Bling Ring;A24;Drama;5845732;719032;160;2013
+Pulling Strings;Lionsgate;Romantic Comedy;5842961;718691;161;2013
+Closed Circuit;Focus Features;Thriller/Suspense;5750995;707379;162;2013
+Monsters University Inc.;Walt Disney;Adventure;5571699;685325;163;2013
+The Wizard of Oz;Warner Bros.;Musical;5509334;677654;164;2013
+Top Gun;Paramount Pictures;Action;5418430;666473;165;2013
+Hubble 3D;Warner Bros.;Documentary;5361957;659527;166;2013
+Chennai Express;UTV Communications;Romantic Comedy;5307960;652885;167;2013
+The Company You Keep;Sony Pictures Cla...;Thriller/Suspense;5132442;631296;168;2013
+20 Feet From Stardom;RADiUS-TWC;Documentary;4821266;593021;169;2013
+Much Ado About Nothing;Roadside Attractions;Romantic Comedy;4328850;532453;170;2013
+Frances Ha;IFC Films;Comedy;4066826;500224;171;2013
+The To Do List;CBS Films;Comedy;3491669;429479;172;2013
+Metallica Through the Never;Picturehouse;Concert/Perfor...;3419967;420660;173;2013
+Emperor;Roadside Attractions;Drama;3346264;411594;174;2013
+Stand Up Guys;Roadside Attractions;Drama;3310031;407137;175;2013
+The Fifth Estate;Walt Disney;Drama;3254172;400267;176;2013
+Promised Land;Focus Features;Drama;3202459;393906;177;2013
+The Twilight Saga: Breaking...;Lionsgate;Drama;3191381;392543;178;2013
+Hyde Park on Hudson;Focus Features;Drama;3166260;389453;179;2013
+In a World...;Roadside Attractions;Comedy;2963271;364485;180;2013
+To the Arctic 3D;Warner Bros.;Documentary;2930286;360428;181;2013
+Home Run;Samuel Goldwyn Films;Drama;2859955;351777;182;2013
+Filly Brown;Lionsgate;Drama;2850357;350597;183;2013
+Grace Unplugged;Roadside Attractions;Drama;2507159;308383;184;2013
+The Sapphires;Weinstein Co.;Musical;2450867;301459;185;2013
+Space Station;IMAX Films;Documentary;2436846;299735;186;2013
+La Vie d'Adèle;Mongrel Media;Drama;2426783;298497;187;2013
+The Gatekeepers;Sony Pictures Cla...;Documentary;2408553;296254;188;2013
+I'm in Love with a Church Girl;High Top Releasing;Drama;2387730;293693;189;2013
+No;Sony Pictures Cla...;Drama;2341226;287973;190;2013
+Trance;Fox Searchlight;Thriller/Suspense;2322593;285681;191;2013
+Renoir;Samuel Goldwyn Films;Drama;2291047;281801;192;2013
+The East;Fox Searchlight;Drama;2274649;279784;193;2013
+Oldboy;FilmDistrict;Action;2193658;269822;194;2013
+2013 Oscar Shorts;Shorts International;Multiple Genres;2142342;263510;195;2013
+Hotel Transylvania;Sony Pictures;Adventure;2140687;263307;196;2013
+Austenland;Sony Pictures Cla...;Romantic Comedy;2137573;262924;197;2013
+Blackfish;Magnolia Pictures;Documentary;2073582;255053;198;2013
+The Iceman;Alchemy;Drama;1930282;237427;199;2013
+Fill the Void;Sony Pictures Cla...;Drama;1774639;218282;200;2013
+Stoker;Fox Searchlight;Drama;1703125;209486;201;2013
+Guardians of the Galaxy;Walt Disney;Action;333055258;40765637;1;2014
+The Hunger Games: Mockingja...;Lionsgate;Thriller/Suspense;323734502;39624786;2;2014
+Captain America: The Winter...;Walt Disney;Action;259746958;31792773;3;2014
+The Lego Movie;Warner Bros.;Adventure;257784718;31552597;4;2014
+Transformers: Age of Extinc...;Paramount Pictures;Action;245439076;30041502;5;2014
+Maleficent;Walt Disney;Adventure;241407328;29548020;6;2014
+X-Men: Days of Future Past;20th Century Fox;Action;233921534;28631766;7;2014
+The Hobbit: The Battle of t...;Warner Bros.;Adventure;220602017;27001470;8;2014
+Big Hero 6;Walt Disney;Adventure;211207036;25851534;9;2014
+Dawn of the Planet of the Apes;20th Century Fox;Adventure;208545589;25525775;10;2014
+The Amazing Spider-Man 2;Sony Pictures;Action;202853933;24829122;11;2014
+Godzilla;Warner Bros.;Action;200676069;24562554;12;2014
+22 Jump Street;Sony Pictures;Comedy;191719337;23466259;13;2014
+Teenage Mutant Ninja Turtles;Paramount Pictures;Adventure;191204754;23403274;14;2014
+Interstellar;Paramount Pictures;Adventure;182802094;22374797;15;2014
+How to Train Your Dragon 2;20th Century Fox;Adventure;177002924;21664984;16;2014
+Gone Girl;20th Century Fox;Thriller/Suspense;166197583;20342421;17;2014
+Divergent;Lionsgate;Adventure;150947895;18475874;18;2014
+Neighbors;Universal;Comedy;150086800;18370477;19;2014
+Ride Along;Universal;Comedy;134202565;16426262;20;2014
+Rio 2;20th Century Fox;Adventure;131538435;16100175;21;2014
+Lucy;Universal;Action;126573960;15492528;22;2014
+The Fault in Our Stars;20th Century Fox;Drama;124872350;15284253;23;2014
+Lone Survivor;Universal;Action;124768916;15271593;24;2014
+Mr. Peabody & Sherman;20th Century Fox;Adventure;111506430;13648277;25;2014
+300: Rise of an Empire;Warner Bros.;Action;106580051;13045293;26;2014
+Frozen;Walt Disney;Musical;104046280;12735162;27;2014
+The Maze Runner;20th Century Fox;Action;102104191;12497452;28;2014
+The Equalizer;Sony Pictures;Action;101364626;12406930;29;2014
+Noah;Paramount Pictures;Drama;101200044;12386786;30;2014
+Edge of Tomorrow;Warner Bros.;Action;100206256;12265147;31;2014
+Non-Stop;Universal;Action;91742160;11229150;32;2014
+Heaven is for Real;Sony Pictures;Drama;91386097;11185568;33;2014
+Into the Woods;Walt Disney;Musical;90871655;11122601;34;2014
+Fury;Sony Pictures;Drama;85244339;10433823;35;2014
+Dumb and Dumber To;Universal;Comedy;84863720;10387236;36;2014
+Tammy;Warner Bros.;Comedy;84525432;10345830;37;2014
+Annabelle;Warner Bros.;Horror;84273813;10315032;38;2014
+The Other Woman;20th Century Fox;Comedy;83911193;10270647;39;2014
+Let's Be Cops;20th Century Fox;Comedy;82390774;10084550;40;2014
+The Monuments Men;Sony Pictures;Drama;78031620;9550993;41;2014
+Penguins of Madagascar;20th Century Fox;Adventure;74028222;9060981;42;2014
+Hercules;Paramount Pictures;Adventure;72688614;8897015;43;2014
+The Purge: Anarchy;Universal;Thriller/Suspense;71562550;8759186;44;2014
+Night at the Museum: Secret...;20th Century Fox;Adventure;69354582;8488932;45;2014
+Alexander and the Terrible ��;Walt Disney;Adventure;66032663;8082333;46;2014
+Think Like a Man Too;Sony Pictures;Romantic Comedy;65028687;7959447;47;2014
+The Nut Job;Open Road;Adventure;64251538;7864325;48;2014
+Unbroken;Universal;Drama;62266245;7621327;49;2014
+American Hustle;Sony Pictures;Black Comedy;62194684;7612568;50;2014
+God's Not Dead;Pure Flix Enterta...;Drama;60755732;7436442;51;2014
+Son of God;20th Century Fox;Drama;59700064;7307229;52;2014
+Planes: Fire and Rescue;Walt Disney;Adventure;59157732;7240848;53;2014
+The Grand Budapest Hotel;Fox Searchlight;Comedy;58850714;7203269;54;2014
+RoboCop;Sony Pictures;Action;58607007;7173440;55;2014
+Annie;Sony Pictures;Musical;56951920;6970859;56;2014
+Dracula Untold;Universal;Action;55991880;6853351;57;2014
+Exodus: Gods and Kings;20th Century Fox;Drama;55727340;6820971;58;2014
+The Hundred-Foot Journey;Walt Disney;Comedy;54235441;6638364;59;2014
+The Wolf of Wall Street;Paramount Pictures;Black Comedy;53775227;6582035;60;2014
+Horrible Bosses 2;Warner Bros.;Black Comedy;53063469;6494916;61;2014
+No Good Deed;Sony Pictures;Thriller/Suspense;52543632;6431289;62;2014
+Muppets Most Wanted;Walt Disney;Adventure;51178893;6264246;63;2014
+Ouija;Universal;Horror;50856010;6224725;64;2014
+The Boxtrolls;Focus Features;Adventure;50618671;6195675;65;2014
+Jack Ryan: Shadow Recruit;Paramount Pictures;Action;50577412;6190625;66;2014
+If I Stay;Warner Bros.;Drama;50474843;6178071;67;2014
+The Book of Life;20th Century Fox;Adventure;49322356;6037008;68;2014
+About Last Night;Sony Pictures;Romantic Comedy;48637684;5953204;69;2014
+Into the Storm;Warner Bros.;Thriller/Suspense;47602194;5826461;70;2014
+The Judge;Warner Bros.;Drama;47063106;5760478;71;2014
+Jersey Boys;Warner Bros.;Musical;47047013;5758508;72;2014
+Blended;Warner Bros.;Romantic Comedy;46290741;5665941;73;2014
+The Giver;Weinstein Co.;Drama;45090374;5519017;74;2014
+Need for Speed;Walt Disney;Action;43568507;5332742;75;2014
+St. Vincent;Weinstein Co.;Comedy;43478246;5321694;76;2014
+John Wick;Lionsgate;Action;42925323;5254017;77;2014
+A Million Ways to Die in Th...;Universal;Western;42720965;5229004;78;2014
+Dolphin Tale 2;Warner Bros.;Drama;42024533;5143761;79;2014
+The Expendables 3;Lionsgate;Action;39322544;4813040;80;2014
+Earth to Echo;Relativity;Adventure;38934842;4765586;81;2014
+Sex Tape;Sony Pictures;Comedy;38543473;4717683;82;2014
+August: Osage County;Weinstein Co.;Black Comedy;37257126;4560235;83;2014
+Million Dollar Arm;Walt Disney;Drama;36447959;4461194;84;2014
+This is Where I Leave You;Warner Bros.;Comedy;34296320;4197835;85;2014
+Nightcrawler;Open Road;Thriller/Suspense;31983186;3914710;86;2014
+Chef;Open Road;Comedy;31424004;3846267;87;2014
+3 Days to Kill;Relativity;Thriller/Suspense;30697999;3757405;88;2014
+Deliver Us from Evil;Sony Pictures;Horror;30577122;3742609;89;2014
+Get on Up;Universal;Drama;30569935;3741730;90;2014
+The Imitation Game;Weinstein Co.;Drama;30472090;3729753;91;2014
+When the Game Stands Tall;Sony Pictures;Drama;30127963;3687633;92;2014
+The Hobbit: The Desolation ...;Warner Bros.;Adventure;29307213;3587174;93;2014
+Draft Day;Lionsgate;Drama;28842237;3530261;94;2014
+Oculus;Relativity;Horror;27695246;3389870;95;2014
+The Gambler;Paramount Pictures;Drama;27606266;3378979;96;2014
+The Best of Me;Relativity;Drama;26739759;3272920;97;2014
+That Awkward Moment;FilmDistrict;Romantic Comedy;26068955;3190814;98;2014
+A Walk Among the Tombstones;Universal;Action;26017685;3184539;99;2014
+Her;Warner Bros.;Drama;25568251;3129528;100;2014
+The November Man;Relativity;Thriller/Suspense;25018119;3062193;101;2014
+The Theory of Everything;Focus Features;Drama;24772350;3032111;102;2014
+Saving Mr. Banks;Walt Disney;Drama;24341481;2979373;103;2014
+Boyhood;IFC Films;Drama;24299768;2974267;104;2014
+Birdman or (The Unexpected ...;Fox Searchlight;Black Comedy;24273045;2970996;105;2014
+Top Five;Paramount Pictures;Comedy;23740325;2905792;106;2014
+Endless Love;Universal;Drama;23438250;2868818;107;2014
+Pompeii;Sony Pictures;Action;23169033;2835866;108;2014
+Transcendence;Warner Bros.;Thriller/Suspense;23022309;2817908;109;2014
+As Above So Below;Universal;Horror;21222315;2597590;110;2014
+Brick Mansions;Relativity;Action;20396829;2496551;111;2014
+Ghostbusters;Sony Pictures;Comedy;19864003;2431334;112;2014
+Wild;Fox Searchlight;Drama;19742647;2416480;113;2014
+I  Frankenstein;Lionsgate;Action;19075290;2334796;114;2014
+The Legend of Hercules;Lionsgate;Adventure;18848538;2307042;115;2014
+Anchorman 2: The Legend Con...;Paramount Pictures;Comedy;18639235;2281424;116;2014
+Gravity;Warner Bros.;Thriller/Suspense;18471038;2260836;117;2014
+12 Years a Slave;Fox Searchlight;Drama;18199907;2227650;118;2014
+Philomena;Weinstein Co.;Drama;18123668;2218319;119;2014
+Bears;Walt Disney;Documentary;17780194;2176278;120;2014
+The Hunger Games: Catching ...;Lionsgate;Adventure;17528348;2145452;121;2014
+Addicted;Lionsgate;Drama;17390770;2128613;122;2014
+A Haunted House 2;Open Road;Comedy;17329487;2121112;123;2014
+A Most Wanted Man;Roadside Attractions;Thriller/Suspense;17237855;2109896;124;2014
+Begin Again;Weinstein Co.;Drama;16170632;1979269;125;2014
+Tyler Perry's The Single Mo...;Lionsgate;Comedy;15995891;1957881;126;2014
+Devil's Due;20th Century Fox;Horror;15821461;1936531;127;2014
+And So It Goes;Clarius Entertain...;Comedy;15160801;1855667;128;2014
+Step Up All In;Lionsgate;Drama;14904384;1824282;129;2014
+Beyond the Lights;Relativity;Drama;14564709;1782706;130;2014
+America: Imagine a World Wi...;Lionsgate;Documentary;14444502;1767992;131;2014
+Paranormal Activity: The Ma...;Paramount Pictures;Horror;14118761;1728122;132;2014
+Left Behind;Freestyle Releasing;Thriller/Suspense;14019924;1716024;133;2014
+Sin City: A Dame to Kill For;Weinstein Co.;Action;13757804;1683941;134;2014
+Labor Day;Paramount Pictures;Drama;13371528;1636661;135;2014
+The Secret Life of Walter M...;20th Century Fox;Adventure;12765884;1562531;136;2014
+Winter's Tale;Warner Bros.;Drama;12600231;1542255;137;2014
+Dallas Buyers Club;Focus Features;Drama;10997442;1346076;138;2014
+Belle;Fox Searchlight;Drama;10726630;1312929;139;2014
+The Drop;Fox Searchlight;Drama;10724389;1312654;140;2014
+Nebraska;Paramount Pictures;Drama;10651616;1303747;141;2014
+Magic in the Moonlight;Sony Pictures Cla...;Romantic Comedy;10534510;1289413;142;2014
+Sabotage;Open Road;Action;10508518;1286232;143;2014
+Moms' Night Out;Sony Pictures;Adventure;10429707;1276585;144;2014
+Big Eyes;Weinstein Co.;Drama;9924025;1214690;145;2014
+P.K.;UTV Communications;Comedy;9896123;1211275;146;2014
+Island of Lemurs: Madagascar;Warner Bros.;Documentary;8860004;1084455;147;2014
+The Quiet Ones;Lionsgate;Horror;8509867;1041599;148;2014
+Legends of Oz: Dorothy's Re...;Clarius Entertain...;Adventure;8462347;1035782;149;2014
+Foxcatcher;Sony Pictures Cla...;Drama;7942789;972189;150;2014
+Vampire Academy;Weinstein Co.;Comedy;7791979;953730;151;2014
+Bad Words;Focus Features;Black Comedy;7779614;952217;152;2014
+Cantinflas;Lionsgate;Drama;6382924;781263;153;2014
+Jerusalem;National Geograph...;Documentary;6304112;771617;154;2014
+Meet the Mormons;Purdie Distribution;Documentary;6028558;737889;155;2014
+Whiplash;Sony Pictures Cla...;Drama;5901617;722352;156;2014
+Hubble 3D;Warner Bros.;Documentary;5754866;704389;157;2014
+47 Ronin;Universal;Action;5674795;694589;158;2014
+Cesar Chavez;Lionsgate;Drama;5571497;681945;159;2014
+Inside Llewyn Davis;CBS Films;Drama;5490231;671998;160;2014
+The Skeleton Twins;Lionsgate/Roadsid...;Drama;5284309;646794;161;2014
+Journey to the South Pacific;MacGillivray Free...;Documentary;5238809;641225;162;2014
+The Wind Rises;Walt Disney;Drama;5201879;636704;163;2014
+Grudge Match;Warner Bros.;Comedy;4971780;608541;164;2014
+Walking with Dinosaurs;20th Century Fox;Adventure;4731936;579184;165;2014
+Snowpiercer;RADiUS-TWC;Thriller/Suspense;4563029;558510;166;2014
+The Railway Man;Weinstein Co.;Drama;4438438;543260;167;2014
+Dear White People;Lionsgate/Roadsid...;Comedy;4376622;535694;168;2014
+The Lunchbox;Sony Pictures Cla...;Drama;4231500;517931;169;2014
+My Old Lady;Cohen Media Group;Comedy;4001608;489792;170;2014
+Fading Gigolo;Alchemy;Comedy;3747833;458731;171;2014
+Ida;Music Box Films;Drama;3704612;453440;172;2014
+Calvary;Fox Searchlight;Black Comedy;3600006;440637;173;2014
+Wish I Was Here;Focus Features;Comedy;3591299;439571;174;2014
+The Interview;Sony Pictures;Comedy;3552778;434856;175;2014
+What If;CBS Films;Romantic Comedy;3493000;427539;176;2014
+The Grand Seduction;Entertainment One;Comedy;3409304;417295;177;2014
+Veronica Mars;Warner Bros.;Drama;3322127;406625;178;2014
+Before I Go to Sleep;Clarius Entertain...;Thriller/Suspense;3242457;396873;179;2014
+Rosewater;Open Road;Drama;3128941;382979;180;2014
+Obvious Child;A24;Romantic Comedy;3122616;382205;181;2014
+Thor: The Dark World;Walt Disney;Action;2912936;356540;182;2014
+The Trip to Italy;IFC Films;Comedy;2873758;351745;183;2014
+The Admiral: Roaring Currents;CJ Entertainment;Action;2830989;346510;184;2014
+The Identical;Freestyle Releasing;Drama;2827666;346103;185;2014
+The Fluffy Movie;Open Road;Concert/Perfor...;2827393;346070;186;2014
+Kirk Cameron's Saving Chris...;Samuel Goldwyn Films;Multiple Genres;2778297;340060;187;2014
+The Good Lie;Warner Bros.;Drama;2716989;332556;188;2014
+The Pyramid;20th Century Fox;Horror;2695735;329955;189;2014
+The Raid 2;Sony Pictures Cla...;Action;2625803;321395;190;2014
+Under the Skin;A24;Thriller/Suspense;2614251;319981;191;2014
+Bang Bang;FIP;Action;2581138;315928;192;2014
+Kick;UTV Communications;Action;2472695;302655;193;2014
+Kill the Messenger;Focus Features;Thriller/Suspense;2450846;299981;194;2014
+The Book Thief;20th Century Fox;Drama;2396662;293349;195;2014
+2014 Oscar Shorts;ShortsHD;Multiple Genres;2357890;288603;196;2014
+Tyler Perry's A Madea Chris...;Lionsgate;Comedy;2316077;283485;197;2014
+Captain Phillips;Sony Pictures;Drama;2301683;281723;198;2014
+The Homesman;Roadside Attractions;Western;2272797;278188;199;2014
+CitizenFour;RADiUS-TWC;Documentary;2263209;277014;200;2014
+Love is Strange;Sony Pictures Cla...;Drama;2262203;276891;201;2014
+Star Wars Ep. VII: The Forc...;Walt Disney;Adventure;742208942;88043765;1;2015
+Jurassic World;Universal;Action;652270625;77374926;2;2015
+Avengers: Age of Ultron;Walt Disney;Action;459005868;54449094;3;2015
+Inside Out;Walt Disney;Adventure;356461711;42284900;4;2015
+Furious 7;Universal;Action;353007020;41875091;5;2015
+American Sniper;Warner Bros.;Drama;347897084;41268930;6;2015
+Minions;Universal;Adventure;336045770;39863081;7;2015
+The Hunger Games: Mockingja...;Lionsgate;Thriller/Suspense;274185395;32524957;8;2015
+The Martian;20th Century Fox;Thriller/Suspense;225345353;26731359;9;2015
+Cinderella;Walt Disney;Drama;201151353;23861370;10;2015
+Spectre;Sony Pictures;Action;197102585;23381090;11;2015
+Mission: Impossible—Rogue N...;Paramount Pictures;Action;195042377;23136699;12;2015
+Pitch Perfect 2;Universal;Comedy;184296230;21861949;13;2015
+Ant-Man;Walt Disney;Action;180202163;21376294;14;2015
+Home;20th Century Fox;Adventure;177397510;21043595;15;2015
+Hotel Transylvania 2;Sony Pictures;Adventure;168471018;19984700;16;2015
+Fifty Shades of Grey;Universal;Drama;166167230;19711415;17;2015
+The SpongeBob Movie: Sponge...;Paramount Pictures;Adventure;162994032;19334997;18;2015
+Straight Outta Compton;Universal;Drama;161197785;19121920;19;2015
+San Andreas;Warner Bros.;Adventure;155190832;18409351;20;2015
+Mad Max: Fury Road;Warner Bros.;Action;153214368;18174895;21;2015
+The Divergent Serires: Insu...;Lionsgate;Action;130179072;15442357;22;2015
+Kingsman: The Secret Service;20th Century Fox;Action;128261724;15214914;23;2015
+The Peanuts Movie;20th Century Fox;Adventure;128235584;15211813;24;2015
+The Good Dinosaur;Walt Disney;Adventure;114766932;13614108;25;2015
+Spy!;20th Century Fox;Comedy;110825712;13146585;26;2015
+Trainwreck;Universal;Romantic Comedy;110212700;13073867;27;2015
+Creed;Warner Bros.;Drama;99385165;11789462;28;2015
+Daddy's Home;Paramount Pictures;Comedy;93889861;11137587;29;2015
+Tomorrowland;Walt Disney;Adventure;93436322;11083786;30;2015
+Get Hard;Warner Bros.;Comedy;90411453;10724964;31;2015
+Terminator: Genisys;Paramount Pictures;Action;89760956;10647800;32;2015
+Taken 3;20th Century Fox;Action;89256424;10587951;33;2015
+Maze Runner: The Scorch Trials;20th Century Fox;Action;81630702;9683357;34;2015
+Ted 2;Universal;Comedy;81476385;9665052;35;2015
+Goosebumps;Sony Pictures;Horror;79132868;9387054;36;2015
+Pixels;Sony Pictures;Adventure;78765986;9343533;37;2015
+Paddington;Weinstein Co.;Adventure;76223578;9041942;38;2015
+The Intern;Warner Bros.;Comedy;75574886;8964992;39;2015
+Paul Blart: Mall Cop 2;Sony Pictures;Adventure;71091594;8433167;40;2015
+Bridge of Spies;Walt Disney;Thriller/Suspense;70610153;8376056;41;2015
+War Room;Sony Pictures;Drama;66628024;7903680;42;2015
+Magic Mike XXL;Warner Bros.;Comedy;66013057;7830730;43;2015
+The Visit;Universal;Horror;65206105;7735007;44;2015
+The Wedding Ringer;Sony Pictures;Comedy;64460211;7646526;45;2015
+Black Mass;Warner Bros.;Drama;62575678;7422974;46;2015
+The Imitation Game;Weinstein Co.;Drama;60653053;7194905;47;2015
+Vacation;Warner Bros.;Comedy;58884188;6985075;48;2015
+The Perfect Guy;Sony Pictures;Thriller/Suspense;57027435;6764820;49;2015
+Fantastic Four;20th Century Fox;Action;56117548;6656886;50;2015
+Alvin and the Chipmunks: Th...;20th Century Fox;Adventure;55575427;6592577;51;2015
+Focus;Warner Bros.;Comedy;53862963;6389438;52;2015
+Unbroken;Universal;Drama;53371650;6331157;53;2015
+Southpaw;Weinstein Co.;Drama;52421953;6218499;54;2015
+Insidious Chapter 3;Focus Features;Horror;52218558;6194372;55;2015
+Selma;Paramount Pictures;Drama;52076908;6177569;56;2015
+Sisters;Universal;Comedy;49123380;5827210;57;2015
+Jupiter Ascending;Warner Bros.;Action;47482519;5632564;58;2015
+Poltergeist;20th Century Fox;Horror;47425125;5625756;59;2015
+Sicario;Lionsgate;Thriller/Suspense;46823967;5554444;60;2015
+The Man From U.N.C.L.E.;Warner Bros.;Action;45445109;5390878;61;2015
+McFarland  USA;Walt Disney;Drama;44480275;5276426;62;2015
+Night at the Museum: Secret...;20th Century Fox;Adventure;44392039;5265960;63;2015
+The Gift;STX Entertainment;Thriller/Suspense;43787265;5194218;64;2015
+Everest;Universal;Adventure;43482270;5158039;65;2015
+The Night Before;Sony Pictures;Comedy;42884826;5087168;66;2015
+Max;Warner Bros.;Adventure;42656255;5060053;67;2015
+The Age of Adaline;Lionsgate;Drama;42629776;5056912;68;2015
+Krampus;Universal;Horror;41465710;4918827;69;2015
+The Longest Ride;20th Century Fox;Drama;37446117;4442007;70;2015
+Into the Woods;Walt Disney;Musical;37130717;4404592;71;2015
+The Boy Next Door;Universal;Thriller/Suspense;36006065;4271182;72;2015
+Pan;Warner Bros.;Adventure;35057457;4158654;73;2015
+Hot Pursuit;Warner Bros.;Comedy;34580201;4102040;74;2015
+The Hobbit: The Battle of t...;Warner Bros.;Adventure;34517771;4094634;75;2015
+The DUFF;CBS Films;Comedy;34030343;4036814;76;2015
+Woman in Gold;Weinstein Co.;Drama;33307793;3951102;77;2015
+The Second Best Exotic Mari...;Fox Searchlight;Comedy;33078266;3923875;78;2015
+The Big Short;Paramount Pictures;Drama;33055481;3921172;79;2015
+Unfriended;Universal;Horror;32789645;3889638;80;2015
+Entourage;Warner Bros.;Comedy;32363404;3839075;81;2015
+Paper Towns;20th Century Fox;Drama;32000304;3796003;82;2015
+Chappie;Sony Pictures;Action;31569268;3744872;83;2015
+Crimson Peak;Universal;Horror;31090320;3688057;84;2015
+A Walk in the Woods;Broad Green Pictures;Adventure;29499394;3499334;85;2015
+The Hateful Eight;Weinstein Co.;Western;29045855;3445534;86;2015
+Annie;Sony Pictures;Musical;28959342;3435272;87;2015
+Joy;20th Century Fox;Drama;28310094;3358256;88;2015
+Sinister 2;Focus Features;Horror;27740955;3290741;89;2015
+The Last Witch Hunter;Lionsgate;Action;27367660;3246460;90;2015
+No Escape;Weinstein Co.;Thriller/Suspense;27288872;3237114;91;2015
+Spotlight;Open Road;Drama;27108972;3215773;92;2015
+Ricki and the Flash;Sony Pictures;Drama;26839498;3183808;93;2015
+Run All Night;Warner Bros.;Action;26461644;3138985;94;2015
+Love the Coopers;CBS Films;Comedy;26193757;3107207;95;2015
+The Lazarus Effect;Lionsgate;Horror;25801570;3060684;96;2015
+Ex Machina;A24;Thriller/Suspense;25440971;3017908;97;2015
+In the Heart of the Sea;Warner Bros.;Adventure;23063385;2735870;98;2015
+The Gallows;Warner Bros.;Horror;22764410;2700404;99;2015
+Hitman: Agent 47;20th Century Fox;Action;22467450;2665178;100;2015
+Project Almanac;Paramount Pictures;Adventure;22348241;2651036;101;2015
+Black or White;Relativity;Drama;21571189;2558859;102;2015
+Aloha;Sony Pictures;Drama;21052030;2497275;103;2015
+Secret in Their Eyes;STX Entertainment;Thriller/Suspense;20119034;2386599;104;2015
+Brooklyn;Fox Searchlight;Drama;19563995;2320759;105;2015
+Shaun the Sheep;Lionsgate;Adventure;19375982;2298455;106;2015
+Still Alice;Sony Pictures Cla...;Drama;18656400;2213096;107;2015
+Paranormal Activity: The Gh...;Paramount Pictures;Horror;18297124;2170477;108;2015
+Wild;Fox Searchlight;Drama;18137709;2151567;109;2015
+Birdman or (The Unexpected ...;Fox Searchlight;Black Comedy;18067553;2143245;110;2015
+Steve Jobs;Universal;Drama;17766658;2107551;111;2015
+Mr. Holmes;Miramax/Roadside ...;Drama;17737646;2104109;112;2015
+Seventh Son;Universal;Adventure;17725785;2102703;113;2015
+Concussion;Sony Pictures;Drama;17420369;2066473;114;2015
+Monkey Kingdom;Walt Disney;Documentary;16432322;1949267;115;2015
+The Transporter Refueled;EuropaCorp;Action;16029670;1901502;116;2015
+Point Break;Warner Bros.;Action;15584535;1848699;117;2015
+It Follows;RADiUS-TWC;Horror;14674077;1740697;118;2015
+American Ultra;Lionsgate;Black Comedy;14439985;1712928;119;2015
+Woodlawn;Pure Flix Enterta...;Drama;14380599;1705883;120;2015
+Burnt;Weinstein Co.;Comedy;13596955;1612924;121;2015
+The Hunger Games: Mockingja...;Lionsgate;Thriller/Suspense;13401383;1589725;122;2015
+Do You Believe?;Pure Flix Enterta...;Drama;12985600;1540403;123;2015
+Love & Mercy;Roadside Attractions;Drama;12551031;1488853;124;2015
+Strange Magic;Walt Disney;Adventure;12429583;1474446;125;2015
+Hot Tub Time Machine 2;Paramount Pictures;Comedy;12314651;1460812;126;2015
+Self/Less;Focus Features;Thriller/Suspense;12279691;1456665;127;2015
+Far from the Madding Crowd;Fox Searchlight;Drama;12236500;1451542;128;2015
+Back to the Future;Universal;Adventure;12127168;1438572;129;2015
+The 33;Warner Bros.;Drama;12049242;1429328;130;2015
+The Woman in Black 2: Angel...;Relativity;Horror;11473908;1361080;131;2015
+Big Hero 6;Walt Disney;Adventure;11320792;1342917;132;2015
+The Theory of Everything;Focus Features;Drama;11121187;1319239;133;2015
+The Gunman;Open Road;Thriller/Suspense;10664749;1265094;134;2015
+Unfinished Business;20th Century Fox;Comedy;10219501;1212278;135;2015
+The Walk;Sony Pictures;Drama;10161183;1205360;136;2015
+Penguins of Madagascar;20th Century Fox;Adventure;9322689;1105894;137;2015
+Exodus: Gods and Kings;20th Century Fox;Drama;9287173;1101681;138;2015
+Un gallo con muchos huevos;Lionsgate;Adventure;9080818;1077202;139;2015
+Amy;A24;Documentary;8409616;997581;140;2015
+Bajrangi Bhaijaan;Eros Entertainment;Action;8178001;970106;141;2015
+Dragon Ball Z: Resurrection...;FUNimation;Action;8008363;949983;142;2015
+Blackhat;Universal;Thriller/Suspense;8005980;949701;143;2015
+Mortdecai;Lionsgate;Action;7696134;912945;144;2015
+While We're Young;A24;Comedy;7582065;899414;145;2015
+I'll See You in My Dreams;Bleecker Street;Romantic Comedy;7449681;883710;146;2015
+The Green Inferno;High Top Releasing;Horror;7192291;853178;147;2015
+Whiplash;Sony Pictures Cla...;Drama;7190389;852952;148;2015
+Trumbo;Bleecker Street;Drama;7015228;832174;149;2015
+Our Brand is Crisis;Warner Bros.;Drama;7002261;830635;150;2015
+Grandma;Sony Pictures Cla...;Comedy;6928220;821852;151;2015
+Me and Earl and the Dying Girl;Fox Searchlight;Drama;6758416;801710;152;2015
+Baahubali: The Beginning;Bluesky Cinemas;Action;6738000;799288;153;2015
+Inherent Vice;Warner Bros.;Comedy;6647997;788611;154;2015
+Little Boy;Open Road;Drama;6485961;769390;155;2015
+The Gambler;Paramount Pictures;Drama;6074726;720608;156;2015
+The Danish Girl;Focus Features;Drama;6050349;717716;157;2015
+The Loft;Open Road;Thriller/Suspense;6002684;712062;158;2015
+Bajirao Mastani;Eros Entertainment;Drama;5848971;693828;159;2015
+Victor Frankenstein;20th Century Fox;Thriller/Suspense;5775076;685062;160;2015
+Danny Collins;Bleecker Street;Comedy;5637066;668691;161;2015
+A Most Violent Year;A24;Drama;5463088;648053;162;2015
+Interstellar;Paramount Pictures;Adventure;5215800;618718;163;2015
+Carol;Weinstein Co.;Drama;4982475;591040;164;2015
+Room;A24;Drama;4976972;590388;165;2015
+90 Minutes in Heaven;Samuel Goldwyn Films;Drama;4816142;571309;166;2015
+True Story;Fox Searchlight;Drama;4719695;559869;167;2015
+Dilwale;UTV Communications;Romantic Comedy;4704632;558082;168;2015
+Suffragette;Focus Features;Drama;4668603;553808;169;2015
+Big Eyes;Weinstein Co.;Drama;4558006;540688;170;2015
+Prem Ratan Dhan Payo;Fox International;Drama;4364639;517751;171;2015
+The Water Diviner;Warner Bros.;Drama;4200117;498234;172;2015
+Foxcatcher;Sony Pictures Cla...;Drama;4153511;492705;173;2015
+Hubble 3D;Warner Bros.;Documentary;4088852;485036;174;2015
+Irrational Man;Sony Pictures Cla...;Comedy;4030360;478097;175;2015
+Scouts Guide to the Zombie ...;Paramount Pictures;Comedy;3703046;439269;176;2015
+A La Mala;Lionsgate;Romantic Comedy;3629842;430586;177;2015
+Spare Parts;Lionsgate;Drama;3618912;429289;178;2015
+We Are Your Friends;Warner Bros.;Drama;3591417;426028;179;2015
+Mommy;Roadside Attractions;Drama;3498695;415029;180;2015
+What We Do in the Shadows;Unison/Paladin;Comedy;3469224;411533;181;2015
+Learning to Drive;Broad Green Pictures;Drama;3447633;408971;182;2015
+Space Station;IMAX Films;Documentary;3201391;379761;183;2015
+Phoenix;IFC Films;Drama;3166858;375665;184;2015
+Wild Tales;Sony Pictures Cla...;Comedy;3107072;368573;185;2015
+Dil Dhadakne Do;Eros Entertainment;Drama;3066100;363712;186;2015
+Ladrones;Lionsgate;Comedy;3063505;363405;187;2015
+Tanu Weds Manu Returns;Eros Entertainment;Comedy;3043479;361029;188;2015
+Rock the Kasbah;Open Road;Comedy;3020665;358323;189;2015
+Mr. Turner;Sony Pictures Cla...;Drama;2995728;355365;190;2015
+He Named Me Malala;Fox Searchlight;Documentary;2668936;316600;191;2015
+Chi-raq;Amazon Studios/Ro...;Drama;2601330;308580;192;2015
+Captive;Paramount Pictures;Drama;2583301;306441;193;2015
+The Interview;Sony Pictures;Comedy;2552397;302775;194;2015
+Truth;Sony Pictures Cla...;Thriller/Suspense;2517245;298605;195;2015
+Mistress America;Fox Searchlight;Comedy;2500431;296611;196;2015
+Pawn Sacrifice;Bleecker Street;Drama;2436308;289004;197;2015
+2015 Oscar Shorts;ShortsHD;Multiple Genres;2412493;286179;198;2015
+Meru;Music Box Films;Documentary;2334228;276895;199;2015
+My All-American;Clarius Entertain...;Drama;2246000;266429;200;2015
+Ode to My Father;CJ Entertainment;Drama;2209071;262048;201;2015
+Finding Dory;Walt Disney;Adventure;486295561;56219140;1;2016
+Rogue One: A Star Wars Story;Walt Disney;Adventure;424987707;49131526;2;2016
+Captain America: Civil War;Walt Disney;Action;408084349;47177381;3;2016
+The Secret Life of Pets;Universal;Adventure;368384330;42587783;4;2016
+The Jungle Book;Walt Disney;Adventure;364001123;42081054;5;2016
+Deadpool;20th Century Fox;Action;363070709;41973492;6;2016
+Zootopia;Walt Disney;Adventure;341268248;39452976;7;2016
+Batman v Superman: Dawn of ...;Warner Bros.;Action;330360194;38191930;8;2016
+Suicide Squad;Warner Bros.;Action;325100054;37583821;9;2016
+Doctor Strange;Walt Disney;Action;230107790;26602056;10;2016
+Fantastic Beasts and Where ...;Warner Bros.;Adventure;222675573;25742841;11;2016
+Moana;Walt Disney;Musical;210046114;24282787;12;2016
+Star Wars Ep. VII: The Forc...;Walt Disney;Adventure;194453283;22480148;13;2016
+The Revenant;20th Century Fox;Adventure;182765375;21128945;14;2016
+Sing;Universal;Adventure;166497820;19248302;15;2016
+Jason Bourne;Universal;Action;162192920;18750626;16;2016
+Star Trek Beyond;Paramount Pictures;Adventure;158848340;18363969;17;2016
+X-Men: Apocalypse;20th Century Fox;Action;155442489;17970229;18;2016
+Trolls;20th Century Fox;Adventure;150130292;17356103;19;2016
+Kung Fu Panda 3;20th Century Fox;Adventure;143528619;16592903;20;2016
+Ghostbusters;Sony Pictures;Comedy;128350574;14838216;21;2016
+Central Intelligence;Warner Bros.;Comedy;127440871;14733049;22;2016
+The Legend of Tarzan;Warner Bros.;Adventure;126643061;14640816;23;2016
+Sully;Warner Bros.;Drama;124976335;14448131;24;2016
+Bad Moms;STX Entertainment;Comedy;113257297;13093329;25;2016
+The Angry Birds Movie;Sony Pictures;Adventure;107509366;12428828;26;2016
+Independence Day: Resurgence;20th Century Fox;Action;103144286;11924194;27;2016
+The Conjuring 2: The Enfiel...;Warner Bros.;Horror;102470008;11846244;28;2016
+Sausage Party;Sony Pictures;Comedy;97670358;11291370;29;2016
+The Magnificent Seven;Sony Pictures;Western;93420253;10800029;30;2016
+Arrival;Paramount Pictures;Drama;92191690;10657998;31;2016
+Ride Along 2;Universal;Comedy;90862685;10504356;32;2016
+Don't Breathe;Sony Pictures;Horror;89217875;10314205;33;2016
+Miss Peregrine's Home for P...;20th Century Fox;Adventure;86945137;10051461;34;2016
+The Accountant;Warner Bros.;Thriller/Suspense;85856696;9925630;35;2016
+Teenage Mutant Ninja Turtle...;Paramount Pictures;Adventure;82051601;9485734;36;2016
+The Purge: Election Year;Universal;Horror;79042440;9137854;37;2016
+Alice Through the Looking G...;Walt Disney;Adventure;77042381;8906633;38;2016
+Pete's Dragon;Walt Disney;Adventure;76233151;8813081;39;2016
+The Girl on the Train;Universal;Thriller/Suspense;75395035;8716189;40;2016
+Tyler Perry's Boo! A Madea ...;Lionsgate;Comedy;73206343;8463161;41;2016
+Storks;Warner Bros.;Adventure;72414850;8371659;42;2016
+10 Cloverfield Lane;Paramount Pictures;Thriller/Suspense;72082999;8333294;43;2016
+Lights Out;Warner Bros.;Horror;67268835;7776744;44;2016
+The Divergent Series: Alleg...;Lionsgate;Action;66184051;7651335;45;2016
+Now You See Me 2;Lionsgate;Thriller/Suspense;65075540;7523183;46;2016
+Hacksaw Ridge;Lionsgate;Drama;64606565;7468967;47;2016
+Ice Age: Collision Course;20th Century Fox;Adventure;64063008;7406128;48;2016
+The Boss;Universal;Comedy;63077560;7292203;49;2016
+London Has Fallen;Focus Features;Thriller/Suspense;62524260;7228238;50;2016
+Miracles from Heaven;Sony Pictures;Drama;61705123;7133540;51;2016
+Deepwater Horizon;Lionsgate;Thriller/Suspense;61433527;7102141;52;2016
+My Big Fat Greek Wedding 2;Universal;Comedy;59689605;6900532;53;2016
+Jack Reacher: Never Go Back;Paramount Pictures;Action;58574515;6771620;54;2016
+Daddy's Home;Paramount Pictures;Comedy;56467276;6528008;55;2016
+Me Before You;Warner Bros.;Drama;56245075;6502321;56;2016
+The BFG;Walt Disney;Adventure;55483770;6414308;57;2016
+Passengers;Sony Pictures;Thriller/Suspense;55380209;6402336;58;2016
+Neighbors 2: Sorority Rising;Universal;Comedy;55340730;6397772;59;2016
+The Shallows;Sony Pictures;Thriller/Suspense;55121623;6372441;60;2016
+Barbershop: The Next Cut;Warner Bros.;Comedy;54030051;6246249;61;2016
+13 Hours: The Secret Soldie...;Paramount Pictures;Thriller/Suspense;52853219;6110198;62;2016
+Office Christmas Party;Paramount Pictures;Comedy;51137285;5911824;63;2016
+Kubo and the Two Strings;Focus Features;Adventure;48023088;5551802;64;2016
+The Huntsman: Winter's War;Universal;Action;48003015;5549481;65;2016
+Warcraft;Universal;Action;47365290;5475756;66;2016
+How to be Single;Warner Bros.;Romantic Comedy;46843513;5415435;67;2016
+Mike and Dave Need Wedding ...;20th Century Fox;Comedy;46009673;5319037;68;2016
+War Dogs;Warner Bros.;Black Comedy;43034523;4975089;69;2016
+Almost Christmas;Universal;Drama;42002805;4855815;70;2016
+Money Monster;Sony Pictures;Thriller/Suspense;41012075;4741280;71;2016
+Allied;Paramount Pictures;Drama;39598941;4577912;72;2016
+Nerve;Lionsgate;Thriller/Suspense;38583626;4460534;73;2016
+Sisters;Universal;Comedy;37921265;4383961;74;2016
+The Big Short;Paramount Pictures;Drama;37204389;4301085;75;2016
+Risen;Sony Pictures;Drama;36880033;4263587;76;2016
+Assassin's Creed;20th Century Fox;Action;36415167;4209846;77;2016
+The Nice Guys;Warner Bros.;Black Comedy;36261763;4192111;78;2016
+The Boy;STX Entertainment;Horror;35819556;4140989;79;2016
+Dirty Grandpa;Lionsgate;Comedy;35593113;4114810;80;2016
+Ouija: Origin of Evil;Universal;Horror;35144505;4062948;81;2016
+The 5th Wave;Sony Pictures;Action;34912982;4036182;82;2016
+La La Land;Lionsgate;Musical;34268613;3961689;83;2016
+Inferno;Sony Pictures;Thriller/Suspense;34221651;3956260;84;2016
+Mother's Day;Open Road;Romantic Comedy;32492859;3756399;85;2016
+Gods of Egypt;Lionsgate;Adventure;31153464;3601556;86;2016
+Why Him?;20th Century Fox;Comedy;30633916;3541493;87;2016
+Alvin and the Chipmunks: Th...;20th Century Fox;Adventure;30311560;3504226;88;2016
+Hail  Caesar!;Universal;Comedy;30080225;3477482;89;2016
+When the Bough Breaks;Sony Pictures;Thriller/Suspense;29747603;3439029;90;2016
+Fences;Paramount Pictures;Drama;29743615;3438568;91;2016
+Zoolander 2;Paramount Pictures;Comedy;28848693;3335109;92;2016
+Manchester-by-the Sea;Roadside Attractions;Drama;28470697;3291410;93;2016
+Joy;20th Century Fox;Drama;28141138;3253310;94;2016
+The Finest Hours;Walt Disney;Thriller/Suspense;27569558;3187232;95;2016
+Florence Foster Jenkins;Paramount Pictures;Drama;27383770;3165753;96;2016
+Hell or High Water;Lionsgate;Western;27007844;3122294;97;2016
+The Forest;Focus / Gramercy;Horror;26594261;3074481;98;2016
+Ben-Hur;Paramount Pictures;Adventure;26410477;3053234;99;2016
+The Witch;A24;Horror;25138705;2906208;100;2016
+The Hateful Eight;Weinstein Co.;Western;25071561;2898446;101;2016
+Collateral Beauty;Warner Bros.;Drama;24342478;2814159;102;2016
+Bridget Jones's Baby;Universal;Romantic Comedy;24139805;2790728;103;2016
+Kevin Hart: What Now?;Universal;Concert/Perfor...;23591043;2727288;104;2016
+Whiskey Tango Foxtrot;Paramount Pictures;Comedy;23083334;2668593;105;2016
+Snowden;Open Road;Drama;21587519;2495666;106;2016
+Mechanic: Resurrection;Lionsgate;Action;21218403;2452994;107;2016
+Free State of Jones;STX Entertainment;Drama;20810036;2405784;108;2016
+Blair Witch;Lionsgate;Horror;20777061;2401972;109;2016
+God's Not Dead 2;Pure Flix Enterta...;Drama;20773069;2401510;110;2016
+Keanu;Warner Bros.;Comedy;20591853;2380561;111;2016
+Middle School: The Worst Ye...;Lionsgate;Adventure;20007149;2312965;112;2016
+Nine Lives;EuropaCorp;Adventure;19700032;2277460;113;2016
+Race;Focus Features;Drama;19115191;2209848;114;2016
+Brooklyn;Fox Searchlight;Drama;18758748;2168641;115;2016
+The Choice;Lionsgate;Drama;18730891;2165420;116;2016
+Eye in the Sky;Bleecker Street;Thriller/Suspense;18704596;2162381;117;2016
+Spotlight;Open Road;Drama;17946804;2074775;118;2016
+Bad Santa 2;Broad Green Pictures;Comedy;17725773;2049222;119;2016
+Masterminds;Relativity;Comedy;17356894;2006577;120;2016
+Concussion;Sony Pictures;Drama;17111463;1978203;121;2016
+Norm of the North;Lionsgate;Adventure;17062499;1972543;122;2016
+The Birth of a Nation;Fox Searchlight;Drama;15861566;1833707;123;2016
+Eddie the Eagle;20th Century Fox;Drama;15789389;1825362;124;2016
+A Beautiful Planet;Walt Disney;Documentary;15650615;1809319;125;2016
+The Infiltrator;Broad Green Pictures;Thriller/Suspense;15436808;1784602;126;2016
+Keeping Up with the Joneses;20th Century Fox;Comedy;14904426;1723055;127;2016
+Criminal;Lionsgate;Action;14708696;1700427;128;2016
+Hello My Name is Doris;Roadside Attractions;Drama;14444999;1669942;129;2016
+The Edge of Seventeen;STX Entertainment;Drama;14406786;1665524;130;2016
+Love & Friendship;Roadside Attractions;Drama;14016568;1620412;131;2016
+Point Break;Warner Bros.;Action;13197946;1525774;132;2016
+Hillary's America: The Secr...;Quality Flix;Documentary;13099931;1514442;133;2016
+Triple 9;Open Road;Thriller/Suspense;12639297;1461190;134;2016
+Moonlight;A24;Drama;12609768;1457776;135;2016
+The Light Between Oceans;Walt Disney;Drama;12545979;1450402;136;2016
+Fifty Shades of Black;Open Road;Comedy;11686940;1351091;137;2016
+No Manches Frida;Lionsgate;Comedy;11528613;1332787;138;2016
+Café Society;Lionsgate;Drama;11103205;1283607;139;2016
+Pride and Prejudice and Zom...;Sony Pictures;Comedy;10907291;1260958;140;2016
+The Darkness;High Top Releasing;Horror;10753574;1243187;141;2016
+Creed;Warner Bros.;Drama;10382416;1200279;142;2016
+Nocturnal Animals;Focus Features;Thriller/Suspense;10185257;1177486;143;2016
+The Lady in the Van;Sony Pictures Cla...;Drama;10021175;1158517;144;2016
+Room;A24;Drama;9700702;1121468;145;2016
+The Perfect Match;Lionsgate;Romantic Comedy;9669521;1117863;146;2016
+Popstar: Never Stop Never S...;Universal;Comedy;9496130;1097818;147;2016
+Hardcore Henry;STX Entertainment;Action;9252038;1069599;148;2016
+Dangal;UTV Communications;Action;9225794;1066565;149;2016
+The Lobster;A24;Romantic Comedy;9196278;1063153;150;2016
+Meet the Blacks;Freestyle Releasing;Comedy;9097072;1051684;151;2016
+The Queen of Katwe;Walt Disney;Drama;8857311;1023966;152;2016
+Ratchet and Clank;Focus Features;Adventure;8813410;1018891;153;2016
+The Good Dinosaur;Walt Disney;Adventure;8320188;961871;154;2016
+The Wild Life;Lionsgate;Adventure;8005586;925501;155;2016
+Carol;Weinstein Co.;Drama;7729016;893527;156;2016
+The Hunger Games: Mockingja...;Lionsgate;Thriller/Suspense;7538507;871503;157;2016
+Loving;Focus Features;Drama;7482608;865041;158;2016
+Shut In;EuropaCorp;Thriller/Suspense;6897838;797437;159;2016
+The Brothers Grimsby;Sony Pictures;Comedy;6864016;793527;160;2016
+The Young Messiah;Focus Features;Drama;6469813;747955;161;2016
+Jackie;Fox Searchlight;Drama;6469725;747945;162;2016
+Southside with You;Roadside Attractions;Drama;6304223;728811;163;2016
+Captain Fantastic;Bleecker Street;Drama;5879835;679749;164;2016
+Sultan;Yash Raj Films;Action;5599781;647373;165;2016
+Lion;Weinstein Co.;Drama;5303700;613145;166;2016
+Hunt for the Wilderpeople;The Orchard;Comedy;5205471;601788;167;2016
+Bleed for This;Open Road;Drama;5083906;587734;168;2016
+The Danish Girl;Focus Features;Drama;5063669;585395;169;2016
+The Wanderers;Warner Bros.;Drama;5017811;580093;170;2016
+Incarnate;High Top Releasing;Horror;4799774;554887;171;2016
+Absolutely Fabulous: The Movie;Fox Searchlight;Comedy;4772155;551694;172;2016
+Hands of Stone;Weinstein Co.;Drama;4712792;544831;173;2016
+Don't Think Twice;Film Arcade;Comedy;4417983;510749;174;2016
+The Meddler;Sony Pictures Cla...;Comedy;4267219;493320;175;2016
+Ae Dil Hai Mushkil;FIP;Drama;4264983;493061;176;2016
+A Hologram for the King;Roadside Attractions;Drama;4212494;486993;177;2016
+Swiss Army Man;A24;Drama;4210454;486757;178;2016
+Denial;Bleecker Street;Drama;4073448;470918;179;2016
+45 Years;IFC Films;Drama;4021334;464894;180;2016
+Morgan;20th Century Fox;Thriller/Suspense;3915251;452630;181;2016
+Kabali;Cinegalaxy;Action;3903095;451224;182;2016
+The Man Who Knew Infinity;IFC Films;Drama;3877922;448314;183;2016
+Where to Invade Next;Drafthouse Films;Documentary;3827261;442457;184;2016
+Max Steel;Open Road;Action;3818664;441464;185;2016
+Batman: The Killing Joke;Fathom Events;Action;3775000;436416;186;2016
+Midnight Special;Warner Bros.;Drama;3712282;429166;187;2016
+Rules Don't Apply;20th Century Fox;Romantic Comedy;3652206;422220;188;2016
+Anomalisa;Paramount Pictures;Comedy;3548654;410249;189;2016
+Miss Sloane;EuropaCorp;Drama;3493636;403888;190;2016
+Indignation;Roadside Attractions;Drama;3401155;393197;191;2016
+Everybody Wants Some;Paramount Pictures;Comedy;3400278;393095;192;2016
+Maggie's Plan;Sony Pictures Cla...;Comedy;3351735;387483;193;2016
+A Man Called Ove;Music Box Films;Comedy;3336006;385665;194;2016
+Sing Street;Weinstein Co.;Musical;3237118;374233;195;2016
+The Mermaid;Sony Pictures;Romantic Comedy;3229457;373347;196;2016
+Green Room;A24;Horror;3220371;372297;197;2016
+Our Kind of Traitor;Roadside Attractions;Thriller/Suspense;3153157;364526;198;2016
+Compadres;Lionsgate;Comedy;3127773;361592;199;2016
+The Martian;20th Century Fox;Thriller/Suspense;3088310;357030;200;2016
+The Other Side of the Door;20th Century Fox;Horror;3000342;346860;201;2016
+Star Wars Ep. VIII: The Las...;Walt Disney;Adventure;517218368;57660910;1;2017
+Beauty and the Beast;Walt Disney;Musical;504014165;56188870;2;2017
+Wonder Woman;Warner Bros.;Action;412563408;45993691;3;2017
+Guardians of the Galaxy Vol 2;Walt Disney;Action;389813101;43457424;4;2017
+Spider-Man: Homecoming;Sony Pictures;Action;334201140;37257652;5;2017
+It;Warner Bros.;Horror;327481748;36508556;6;2017
+Thor: Ragnarok;Walt Disney;Action;311225150;34696226;7;2017
+Despicable Me 3;Universal;Adventure;264624300;29501036;8;2017
+Logan;20th Century Fox;Action;226277068;25225983;9;2017
+The Fate of the Furious;Universal;Action;225764765;25168870;10;2017
+Justice League;Warner Bros.;Action;225546295;25144514;11;2017
+Dunkirk;Warner Bros.;Action;188373161;21000352;12;2017
+Coco;Walt Disney;Musical;179834199;20048405;13;2017
+The Lego Batman Movie;Warner Bros.;Adventure;175750384;19593131;14;2017
+Get Out;Universal;Horror;175484140;19563449;15;2017
+The Boss Baby;20th Century Fox;Adventure;175003033;19509814;16;2017
+Pirates of the Caribbean: D...;Walt Disney;Adventure;172558876;19237332;17;2017
+Jumanji: Welcome to the Jungle;Sony Pictures;Adventure;169002557;18840865;18;2017
+Kong: Skull Island;Warner Bros.;Adventure;168052812;18734985;19;2017
+Hidden Figures;20th Century Fox;Drama;167620331;18686770;20;2017
+Cars 3;Walt Disney;Adventure;152901115;17045832;21;2017
+War for the Planet of the Apes;20th Century Fox;Action;146880162;16374600;22;2017
+Split;Universal;Horror;138141585;15400399;23;2017
+Transformers: The Last Knight;Paramount Pictures;Action;130168683;14511558;24;2017
+Wonder;Lionsgate;Drama;121559294;13551761;25;2017
+La La Land;Lionsgate;Musical;116833190;13024881;26;2017
+Girls Trip;Universal;Comedy;115108515;12832610;27;2017
+Fifty Shades Darker;Universal;Drama;114434010;12757414;28;2017
+Baby Driver;Sony Pictures;Thriller/Suspense;107825862;12020720;29;2017
+Rogue One: A Star Wars Story;Walt Disney;Adventure;107189617;11949790;30;2017
+Sing;Universal;Adventure;103831225;11575387;31;2017
+Annabelle: Creation;Warner Bros.;Horror;102092201;11381516;32;2017
+Daddy's Home 2;Paramount Pictures;Comedy;101791381;11347980;33;2017
+Murder on the Orient Express;20th Century Fox;Drama;100619624;11217349;34;2017
+Kingsman: The Golden Circle;20th Century Fox;Action;100227039;11173583;35;2017
+John Wick: Chapter Two;Lionsgate;Action;92029184;10259663;36;2017
+Blade Runner 2049;Warner Bros.;Thriller/Suspense;91654512;10217894;37;2017
+The Emoji Movie;Sony Pictures;Adventure;86089513;9597493;38;2017
+Power Rangers;Lionsgate;Action;85364450;9516661;39;2017
+The Mummy;Universal;Adventure;80101125;8929891;40;2017
+The Hitman's Bodyguard;Lionsgate;Action;75468583;8413442;41;2017
+Alien: Covenant;20th Century Fox;Horror;74262031;8278933;42;2017
+Captain Underpants: The Fir...;20th Century Fox;Adventure;73921000;8240914;43;2017
+A Bad Moms Christmas;STX Entertainment;Comedy;71891988;8014714;44;2017
+A Dog's Purpose;Universal;Drama;64321890;7170779;45;2017
+Pitch Perfect 3;Universal;Comedy;63300605;7056923;46;2017
+The Lego Ninjago Movie;Warner Bros.;Adventure;59281555;6608869;47;2017
+Baywatch;Paramount Pictures;Comedy;58060186;6472707;48;2017
+The Shack;Lionsgate;Drama;57386418;6397593;49;2017
+Happy Death Day;Universal;Horror;55683845;6207786;50;2017
+Ferdinand;20th Century Fox;Adventure;53546717;5969534;51;2017
+Atomic Blonde;Focus Features;Thriller/Suspense;51573925;5749601;52;2017
+American Made;Universal;Action;51342000;5723745;53;2017
+The Dark Tower;Sony Pictures;Western;50701325;5652322;54;2017
+The Greatest Showman;20th Century Fox;Musical;49036718;5466747;55;2017
+Tyler Perry's Boo 2! A Made...;Lionsgate;Comedy;47319572;5275314;56;2017
+Lion;Weinstein Co.;Drama;46435795;5176789;57;2017
+Snatched;20th Century Fox;Comedy;45852178;5111726;58;2017
+The Great Wall;Universal;Action;45157105;5034236;59;2017
+Smurfs: The Lost Village;Sony Pictures;Adventure;45020282;5018984;60;2017
+Going in Style;Warner Bros.;Comedy;45018541;5018789;61;2017
+All Eyez on Me;Lionsgate;Drama;44922302;5008060;62;2017
+xXx: Return of Xander Cage;Paramount Pictures;Action;44898413;5005397;63;2017
+Passengers;Sony Pictures;Thriller/Suspense;44634490;4975974;64;2017
+47 Meters Down;Entertainment Stu...;Thriller/Suspense;44307193;4939486;65;2017
+The Big Sick;Lionsgate;Romantic Comedy;42872467;4779539;66;2017
+Ghost in the Shell;Paramount Pictures;Action;40563557;4522135;67;2017
+Valerian and the City of a ...;STX Entertainment;Adventure;40479370;4512750;68;2017
+The Star;Sony Pictures;Adventure;39963949;4455290;69;2017
+King Arthur: Legend of the ...;Warner Bros.;Adventure;39175066;4367343;70;2017
+Moana;Walt Disney;Musical;38710930;4315599;71;2017
+Jigsaw;Lionsgate;Horror;38052832;4242233;72;2017
+American Assassin;Lionsgate;Thriller/Suspense;36249674;4041212;73;2017
+The Foreigner;STX Entertainment;Action;34393507;3834281;74;2017
+Everything Everything;Warner Bros.;Drama;34121140;3803918;75;2017
+Wind River;Weinstein Co.;Thriller/Suspense;33800859;3768212;76;2017
+Geostorm;Warner Bros.;Thriller/Suspense;33578782;3743454;77;2017
+Monster Trucks;Paramount Pictures;Adventure;33370166;3720196;78;2017
+Fist Fight;Warner Bros.;Comedy;32187017;3588296;79;2017
+How to Be a Latin Lover;Lionsgate;Comedy;32149404;3584103;80;2017
+Lady Bird;A24;Drama;31432463;3504176;81;2017
+Patriots Day;Lionsgate;Thriller/Suspense;31257572;3484679;82;2017
+Kidnap;Aviron Pictures;Thriller/Suspense;30718107;3424538;83;2017
+Underworld: Blood Wars;Sony Pictures;Action;30353973;3383943;84;2017
+The Mountain Between Us;20th Century Fox;Adventure;30348555;3383339;85;2017
+Life;Sony Pictures;Thriller/Suspense;30234022;3370571;86;2017
+Why Him?;20th Century Fox;Comedy;29689870;3309907;87;2017
+The Nut Job 2: Nutty by Nature;Open Road;Adventure;28370522;3162822;88;2017
+Fences;Paramount Pictures;Drama;27939289;3114747;89;2017
+Rings;Paramount Pictures;Horror;27793018;3098441;90;2017
+Logan Lucky;Bleecker Street;Comedy;27778642;3096838;91;2017
+Home Again;Open Road;Romantic Comedy;27020284;3012294;92;2017
+Resident Evil: The Final Ch...;Sony Pictures;Horror;26844692;2992719;93;2017
+The House;Warner Bros.;Comedy;25584504;2852230;94;2017
+Gifted;Fox Searchlight;Drama;24801212;2764907;95;2017
+Three Billboards Outside Eb...;Fox Searchlight;Black Comedy;24164629;2693939;96;2017
+The Bye Bye Man;STX Entertainment;Horror;22395806;2496745;97;2017
+Victoria and Abdul;Focus Features;Drama;22233285;2478627;98;2017
+Rough Night;Sony Pictures;Black Comedy;22105643;2464397;99;2017
+My Little Pony: The Movie;Lionsgate;Adventure;21885107;2439811;100;2017
+Leap!;Weinstein Co.;Adventure;21858070;2436797;101;2017
+Sleepless;Open Road;Thriller/Suspense;20783704;2317024;102;2017
+Diary of a Wimpy Kid: The L...;20th Century Fox;Adventure;20738724;2312009;103;2017
+The Circle;STX Entertainment;Thriller/Suspense;20497844;2285155;104;2017
+Manchester-by-the Sea;Roadside Attractions;Drama;19224674;2143218;105;2017
+Baahubali 2: The Conclusion;Great India Films;Action;18985794;2116587;106;2017
+CHiPS;Warner Bros.;Action;18600152;2073596;107;2017
+Assassin's Creed;20th Century Fox;Action;18232781;2032640;108;2017
+Only the Brave;Sony Pictures;Drama;18181288;2026899;109;2017
+Darkest Hour;Focus Features;Drama;18132857;2021500;110;2017
+The Disaster Artist;A24;Comedy;17861795;1991281;111;2017
+mother!;Paramount Pictures;Thriller/Suspense;17800004;1984392;112;2017
+The Zookeeper's Wife;Focus Features;Drama;17445186;1944836;113;2017
+The Glass Castle;Lionsgate;Drama;17273059;1925647;114;2017
+Downsizing;Paramount Pictures;Comedy;17160674;1913119;115;2017
+Flatliners;Sony Pictures;Horror;16883115;1882176;116;2017
+Detroit;Annapurna Pictures;Drama;16790139;1871810;117;2017
+The Shape of Water;Fox Searchlight;Drama;15670177;1746954;118;2017
+Moonlight;A24;Drama;15245163;1699572;119;2017
+The Case for Christ;Pure Flix Enterta...;Drama;14678714;1636422;120;2017
+Wish Upon;Broad Green Pictures;Horror;14301505;1594370;121;2017
+It Comes at Night;A24;Horror;13985117;1559098;122;2017
+Born in China;Walt Disney;Documentary;13873211;1546623;123;2017
+Megan Leavey;Bleecker Street;Drama;13406304;1494571;124;2017
+Father Figures;Warner Bros.;Comedy;12885287;1436487;125;2017
+The Founder;Weinstein Co.;Drama;12786053;1425424;126;2017
+All the Money in the World;Sony Pictures;Thriller/Suspense;12712380;1417211;127;2017
+Battle of the Sexes;Fox Searchlight;Drama;12638526;1408977;128;2017
+Before I Fall;Open Road;Drama;12241072;1364668;129;2017
+Night of the Living Dead;Walter Reade Orga...;Horror;12087064;1347498;130;2017
+Roman J. Israel  Esq.;Sony Pictures;Drama;11851274;1321212;131;2017
+Unforgettable;Warner Bros.;Thriller/Suspense;11368012;1267337;132;2017
+Fantastic Beasts and Where ...;Warner Bros.;Adventure;11362002;1266667;133;2017
+The Beguiled;Focus Features;Western;10576669;1179115;134;2017
+Live by Night;Warner Bros.;Drama;10283585;1146442;135;2017
+The Belko Experiment;BH Tilt;Horror;10166820;1133424;136;2017
+Thank You for Your Service;Universal;Drama;9479390;1056788;137;2017
+Marshall;Open Road;Drama;9468318;1055554;138;2017
+Rock Dog;Lionsgate;Adventure;9420546;1050228;139;2017
+The Lost City of Z;Bleecker Street;Drama;8574339;955890;140;2017
+Arrival;Paramount Pictures;Drama;8354449;931376;141;2017
+The Promise;Open Road;Drama;8224288;916865;142;2017
+A Cure for Wellness;20th Century Fox;Thriller/Suspense;8106986;903789;143;2017
+The Space Between Us;STX Entertainment;Drama;7885294;879074;144;2017
+Jackie;Fox Searchlight;Drama;7490669;835080;145;2017
+Gold;Weinstein Co.;Drama;7227038;805690;146;2017
+Let There Be Light;Atlas Distribution;Drama;7210068;803797;147;2017
+I Am Not Your Negro;Magnolia Pictures;Documentary;7123919;794193;148;2017
+Beatriz at Dinner;Roadside Attractions;Drama;7115854;793294;149;2017
+Birth of the Dragon;BH Tilt;Action;6901965;769449;150;2017
+Silence;Paramount Pictures;Drama;6789497;756911;151;2017
+Collateral Beauty;Warner Bros.;Drama;6673543;743985;152;2017
+The Snowman;Universal;Thriller/Suspense;6670765;743675;153;2017
+Same Kind of Different as Me;Pure Flix Enterta...;Drama;6394006;712821;154;2017
+Loving Vincent;Good Deed Enterta...;Drama;6269689;698961;155;2017
+Lowriders;BH Tilt;Drama;6179955;688958;156;2017
+Maudie;Sony Pictures Cla...;Drama;6170998;687959;157;2017
+Just Getting Started;Broad Green Pictures;Comedy;6036997;673020;158;2017
+All Saints;Sony Pictures;Drama;5802208;646846;159;2017
+Suburbicon;Paramount Pictures;Black Comedy;5775178;643832;160;2017
+Paris Can Wait;Sony Pictures Cla...;Romantic Comedy;5608745;625278;161;2017
+The Man Who Invented Christmas;Bleecker Street;Adventure;5575759;621600;162;2017
+20th Century Women;A24;Drama;5486187;611615;163;2017
+Molly's Game;STX Entertainment;Drama;5377480;599496;164;2017
+The Florida Project;A24;Drama;5297299;590557;165;2017
+Your Name;FUNimation;Drama;5000181;557433;166;2017
+Call Me by Your Name;Sony Pictures Cla...;Drama;4906869;547031;167;2017
+Tiger Zinda Hai;Yash Raj Films;Action;4572231;509724;168;2017
+The Book of Henry;Focus Features;Drama;4288104;478049;169;2017
+Stronger;Roadside Attractions;Drama;4211129;469468;170;2017
+The Hero;The Orchard;Drama;4077333;454552;171;2017
+Sleight;High Top Releasing;Action;3930990;438237;172;2017
+A United Kingdom;Fox Searchlight;Drama;3902185;435026;173;2017
+Norman: The Moderate Rise a...;Sony Pictures Cla...;Drama;3814868;425291;174;2017
+Friend Request;Entertainment Stu...;Thriller/Suspense;3759078;419072;175;2017
+A Monster Calls;Focus Features;Drama;3740823;417037;176;2017
+Office Christmas Party;Paramount Pictures;Comedy;3630209;404705;177;2017
+Table 19;Fox Searchlight;Comedy;3614896;402998;178;2017
+Their Finest;STX Entertainment;Romantic Comedy;3603484;401726;179;2017
+Phoenix Forgotten;Entertainment Stu...;Horror;3600146;401354;180;2017
+Trolls;20th Century Fox;Adventure;3576772;398748;181;2017
+An Inconvenient Sequel;Paramount Vantage;Documentary;3496795;389832;182;2017
+Til Death Do Us Part;Novus Content;Thriller/Suspense;3424454;381767;183;2017
+Colossal;Neon;Drama;3194575;356139;184;2017
+Dangal;UTV Communications;Action;3165967;352950;185;2017
+Close Encounters of the Thi...;Columbia;Adventure;3100479;345650;186;2017
+Ingrid Goes West;Neon;Black Comedy;3021133;336804;187;2017
+2017 Oscar Shorts;ShortsHD;Multiple Genres;2835355;316093;188;2017
+KEDi;Oscilloscope Pict...;Documentary;2834262;315971;189;2017
+Wolf Warrior 2;The H Collective;Action;2721100;303355;190;2017
+My Cousin Rachel;Fox Searchlight;Drama;2716368;302828;191;2017
+Mayweather vs. McGregor;Fathom Events;Concert/Perfor...;2620183;292105;192;2017
+Hacksaw Ridge;Lionsgate;Drama;2603050;290195;193;2017
+A Question of Faith;Pure Flix Enterta...;Drama;2587072;288413;194;2017
+Is Genesis History?;Fathom Events;Documentary;2570355;286550;195;2017
+Hazlo Como Hombre;Lionsgate;Comedy;2534252;282525;196;2017
+Doctor Strange;Walt Disney;Action;2534130;282511;197;2017
+LBJ;Electric Entertai...;Drama;2468683;275215;198;2017
+Tulip Fever;Weinstein Co.;Drama;2455635;273761;199;2017
+The Salesman;Cohen Media Group;Drama;2402067;267788;200;2017
+T2: Trainspotting;Sony Pictures;Drama;2402004;267782;201;2017
+Black Panther;Walt Disney;Action;700059566;76845177;1;2018
+Avengers: Infinity War;Walt Disney;Action;678815482;74513225;2;2018
+Incredibles 2;Walt Disney;Adventure;608581744;66803704;3;2018
+Jurassic World: Fallen Kingdom;Universal;Action;417719760;45852883;4;2018
+Deadpool 2;20th Century Fox;Action;324512774;35621600;5;2018
+Dr. Seuss' The Grinch;Universal;Adventure;266280410;29229463;6;2018
+Jumanji: Welcome to the Jungle;Sony Pictures;Adventure;235506359;25851411;7;2018
+Mission: Impossible—Fallout;Paramount Pictures;Action;220159104;24166751;8;2018
+Ant-Man and the Wasp;Walt Disney;Action;216648740;23781420;9;2018
+Solo: A Star Wars Story;Walt Disney;Adventure;213767512;23465149;10;2018
+Venom;Sony Pictures;Action;213429141;23428006;11;2018
+A Star is Born;Warner Bros.;Drama;201157885;22080997;12;2018
+Aquaman;Warner Bros.;Action;199059824;21850694;13;2018
+Bohemian Rhapsody;20th Century Fox;Drama;189813133;20835690;14;2018
+A Quiet Place;Paramount Pictures;Horror;188024361;20639337;15;2018
+Ralph Breaks The Internet;Walt Disney;Adventure;187152693;20543654;16;2018
+Crazy Rich Asians;Warner Bros.;Romantic Comedy;174519335;19156897;17;2018
+Hotel Transylvania 3: Summe...;Sony Pictures;Adventure;167500092;18386398;18;2018
+Halloween;Universal;Horror;159341510;17490835;19;2018
+Fantastic Beasts: The Crime...;Warner Bros.;Adventure;156781859;17209864;20;2018
+The Meg;Warner Bros.;Action;145443742;15965285;21;2018
+Ocean's 8;Warner Bros.;Action;140218711;15391736;22;2018
+Mary Poppins Returns;Walt Disney;Musical;138817262;15237899;23;2018
+Ready Player One;Warner Bros.;Adventure;137690172;15114179;24;2018
+Spider-Man: Into The Spider...;Sony Pictures;Adventure;133978231;14706721;25;2018
+The Greatest Showman;20th Century Fox;Musical;125303456;13754496;26;2018
+Mamma Mia: Here We Go Again!;Universal;Musical;120634935;13242034;27;2018
+The Nun;Warner Bros.;Horror;117450119;12892439;28;2018
+Peter Rabbit;Sony Pictures;Adventure;115234093;12649186;29;2018
+Creed II;MGM;Drama;112448520;12343416;30;2018
+Star Wars Ep. VIII: The Las...;Walt Disney;Adventure;102963014;11302196;31;2018
+The Equalizer 2;Sony Pictures;Action;102084362;11205747;32;2018
+Rampage;Warner Bros.;Action;101028233;11089817;33;2018
+A Wrinkle in Time;Walt Disney;Adventure;100478608;11029484;34;2018
+Fifty Shades Freed;Universal;Drama;100407760;11021708;35;2018
+Christopher Robin;Walt Disney;Adventure;99215042;10890783;36;2018
+I Can Only Imagine;Roadside Attractions;Drama;83482352;9163814;37;2018
+Smallfoot;Warner Bros.;Adventure;82976621;9108301;38;2018
+The Post;20th Century Fox;Drama;80143337;8797293;39;2018
+Night School;Universal;Comedy;77316580;8487001;40;2018
+Bumblebee;Paramount Pictures;Adventure;71426119;7840408;41;2018
+The First Purge;Universal;Horror;69488745;7627744;42;2018
+Game Night;Warner Bros.;Comedy;69179066;7593750;43;2018
+Book Club;Paramount Pictures;Romantic Comedy;68566296;7526487;44;2018
+The House with a Clock in i...;Universal;Comedy;68536400;7523205;45;2018
+Skyscraper;Universal;Action;68420120;7510441;46;2018
+Insidious: The Last Key;Universal;Horror;67745330;7436370;47;2018
+Instant Family;Paramount Pictures;Comedy;64845006;7118003;48;2018
+The Mule;Warner Bros.;Drama;64720334;7104318;49;2018
+Blockers;Universal;Comedy;60311495;6620362;50;2018
+Pacific Rim: Uprising;Universal;Action;59874525;6572396;51;2018
+Tomb Raider;Warner Bros.;Action;58250803;6394161;52;2018
+Maze Runner: The Death Cure;20th Century Fox;Action;58032443;6370191;53;2018
+The Nutcracker and the Four...;Walt Disney;Adventure;54785758;6013804;54;2018
+Tag;Warner Bros.;Comedy;54730625;6007752;55;2018
+A Simple Favor;Lionsgate;Thriller/Suspense;53548586;5878001;56;2018
+Life of the Party;Warner Bros.;Comedy;53059911;5824359;57;2018
+The Predator;20th Century Fox;Action;51024708;5600956;58;2018
+Overboard;Lionsgate;Romantic Comedy;50316123;5523175;59;2018
+Sicario: Day of the Soldado;Sony Pictures;Action;50065850;5495702;60;2018
+I Feel Pretty;STX Entertainment;Comedy;48795601;5356267;61;2018
+BlacKkKlansman;Focus Features;Black Comedy;48527565;5326846;62;2018
+The Shape of Water;Fox Searchlight;Drama;48189258;5289710;63;2018
+Red Sparrow;20th Century Fox;Thriller/Suspense;46874505;5145390;64;2018
+Breaking In;Universal;Thriller/Suspense;46840590;5141667;65;2018
+Goosebumps 2: Haunted Hallo...;Sony Pictures;Horror;46697321;5125940;66;2018
+12 Strong;Warner Bros.;Drama;45819713;5029606;67;2018
+Den of Thieves;STX Entertainment;Action;44947622;4933877;68;2018
+First Man;Universal;Drama;44923035;4931178;69;2018
+Hereditary;A24;Horror;44069456;4837481;70;2018
+Acrimony;Lionsgate;Thriller/Suspense;43549096;4780362;71;2018
+Sherlock Gnomes;Paramount Pictures;Adventure;43242871;4746748;72;2018
+Uncle Drew;Lionsgate;Comedy;42469946;4661904;73;2018
+Widows;20th Century Fox;Thriller/Suspense;41904173;4599799;74;2018
+Pitch Perfect 3;Universal;Comedy;41596925;4566072;75;2018
+Truth or Dare;Universal;Thriller/Suspense;41411015;4545666;76;2018
+Paddington 2;Warner Bros.;Adventure;40891591;4488649;77;2018
+Love  Simon;20th Century Fox;Drama;40826341;4481486;78;2018
+Darkest Hour;Focus Features;Drama;38310263;4205297;79;2018
+The Commuter;Lionsgate;Action;36343858;3989447;80;2018
+The 15:17 to Paris;Warner Bros.;Drama;36276286;3982029;81;2018
+Mile 22;STX Entertainment;Action;36108758;3963639;82;2018
+Alpha;Sony Pictures;Adventure;35851379;3935387;83;2018
+Peppermint;STX Entertainment;Action;35418723;3887894;84;2018
+Death Wish;MGM;Action;34017028;3734031;85;2018
+The Spy Who Dumped Me;Lionsgate;Comedy;33562069;3684091;86;2018
+Second Act;STX Entertainment;Comedy;32792366;3599601;87;2018
+Annihilation;Paramount Pictures;Thriller/Suspense;32732301;3593008;88;2018
+Green Book;Universal;Comedy;32153006;3529418;89;2018
+Isle of Dogs;Fox Searchlight;Adventure;32015231;3514295;90;2018
+Nobody's Fool;Paramount Pictures;Drama;31713110;3481132;91;2018
+Adrift;STX Entertainment;Drama;31445011;3451702;92;2018
+Ferdinand;20th Century Fox;Adventure;30863663;3387888;93;2018
+Robin Hood;Lionsgate;Action;30645013;3363887;94;2018
+Super Troopers 2;20th Century Fox;Comedy;30617396;3360856;95;2018
+Slender Man;Sony Pictures;Horror;30564825;3355085;96;2018
+Three Billboards Outside Eb...;Fox Searchlight;Black Comedy;30349111;3331406;97;2018
+Coco;Walt Disney;Musical;29891816;3281209;98;2018
+Teen Titans Go! To The Movies;Warner Bros.;Adventure;29790236;3270059;99;2018
+Hostiles;Entertainment Stu...;Western;29733369;3263816;100;2018
+Vice;Annapurna Pictures;Black Comedy;29727497;3263172;101;2018
+The Hate U Give;20th Century Fox;Drama;29668644;3256712;102;2018
+Holmes & Watson;Sony Pictures;Comedy;28313749;3107985;103;2018
+I  Tonya;Neon;Black Comedy;27663198;3036574;104;2018
+Searching;Sony Pictures;Thriller/Suspense;26015149;2855669;105;2018
+Winchester;CBS Films;Horror;25091816;2754316;106;2018
+The Strangers: Prey at Night;Aviron Pictures;Horror;24431472;2681830;107;2018
+White Boy Rick;Sony Pictures;Drama;24004833;2634998;108;2018
+Molly's Game;STX Entertainment;Drama;23403264;2568964;109;2018
+Won't You Be My Neighbor?;Focus Features;Documentary;22835787;2506673;110;2018
+Overlord;Paramount Pictures;Action;21704844;2382530;111;2018
+The Fog;Avco Embassy;Horror;21445318;2354041;112;2018
+Proud Mary;Sony Pictures;Action;20868638;2290739;113;2018
+The Happytime Murders;STX Entertainment;Black Comedy;20706452;2272936;114;2018
+Phantom Thread;Focus Features;Drama;20670365;2268975;115;2018
+Superfly;Sony Pictures;Thriller/Suspense;20537137;2254350;116;2018
+Bad Times at the El Royale;20th Century Fox;Thriller/Suspense;17839115;1958190;117;2018
+Show Dogs;Global Road;Comedy;17744685;1947824;118;2018
+Operation Finale;MGM;Drama;17612099;1933271;119;2018
+Paul Apostle of Christ;Sony Pictures;Drama;17547999;1926234;120;2018
+Lady Bird;A24;Drama;17525810;1923799;121;2018
+Sorry to Bother You;Annapurna Pictures;Black Comedy;17493096;1920208;122;2018
+Chappaquiddick;Entertainment Stu...;Drama;17395521;1909497;123;2018
+Forever My Girl;Roadside Attractions;Drama;16376066;1797592;124;2018
+The Favourite;Fox Searchlight;Black Comedy;15888465;1744069;125;2018
+Hunter Killer;Lionsgate;Thriller/Suspense;15767460;1730786;126;2018
+Mortal Engines;Universal;Action;14894175;1634925;127;2018
+The Girl in the Spider's Web;Sony Pictures;Thriller/Suspense;14828555;1627722;128;2018
+The Possession of Hannah Grace;Sony Pictures;Horror;14682696;1611711;129;2018
+RBG;Magnolia Pictures;Documentary;14017361;1538678;130;2018
+Eighth Grade;A24;Drama;13539710;1486246;131;2018
+Call Me by Your Name;Sony Pictures Cla...;Drama;13158311;1444381;132;2018
+The Darkest Minds;20th Century Fox;Adventure;12695691;1393599;133;2018
+All the Money in the World;Sony Pictures;Thriller/Suspense;12393945;1360476;134;2018
+Three Identical Strangers;Neon;Documentary;12320845;1352452;135;2018
+Upgrade;BH Tilt;Thriller/Suspense;11977130;1314723;136;2018
+Padmavati;Paramount Pictures;Drama;11846060;1300335;137;2018
+Free Solo;Greenwich;Documentary;11447188;1256551;138;2018
+The Old Man and the Gun;Fox Searchlight;Comedy;11198543;1229258;139;2018
+Hell Fest;CBS Films;Horror;11107431;1219257;140;2018
+Wonder;Lionsgate;Drama;10863515;1192482;141;2018
+The Miracle Season;LD Entertainment;Drama;10230620;1123009;142;2018
+Mary Queen of Scots;Focus Features;Drama;9906230;1087401;143;2018
+Midnight Sun;Global Road;Drama;9561064;1049513;144;2018
+Tully;Focus Features;Comedy;9369755;1028513;145;2018
+Traffik;Lionsgate;Thriller/Suspense;9186156;1008360;146;2018
+Unfriended: Dark Web;OTL Releasing;Horror;8866745;973298;147;2018
+Welcome to Marwen;Universal;Drama;8357895;917441;148;2018
+Early Man;Lionsgate;Adventure;8267544;907524;149;2018
+The Wife;Sony Pictures Cla...;Drama;8206930;900870;150;2018
+The Death of Stalin;IFC Films;Black Comedy;8046456;883255;151;2018
+Sanju;20th Century Fox;Drama;7909317;868202;152;2018
+Unsane;Bleecker Street;Thriller/Suspense;7690044;844132;153;2018
+Beautiful Boy;Amazon Studios;Drama;7610815;835435;154;2018
+Can You Ever Forgive Me?;Fox Searchlight;Drama;7543969;828098;155;2018
+Mid90s;A24;Drama;7362439;808171;156;2018
+Downsizing;Paramount Pictures;Comedy;7289080;800119;157;2018
+Dog Days;LD Entertainment;Romantic Comedy;6809080;747429;158;2018
+Boy Erased;Focus Features;Drama;6774202;743600;159;2018
+Hotel Artemis;Global Road;Thriller/Suspense;6708137;736348;160;2018
+A.X.L.;Global Road;Drama;6501381;713653;161;2018
+Fahrenheit 11/9;Briarcliff Entert...;Documentary;6352306;697289;162;2018
+Unbroken: Path to Redemption;Pure Flix Enterta...;Drama;6216897;682425;163;2018
+The Hurricane Heist;Entertainment Stu...;Thriller/Suspense;6115824;671330;164;2018
+Every Day;Orion Pictures;Drama;6112914;671011;165;2018
+Leave No Trace;Bleecker Street;Drama;6046104;663677;166;2018
+Death of a Nation;Quality Flix;Documentary;5885881;646090;167;2018
+Pandas;IMAX Films;Documentary;5757906;632042;168;2018
+God's Not Dead: A Light in ...;Pure Flix Enterta...;Drama;5728940;628862;169;2018
+Kin;Lionsgate;Action;5718096;627672;170;2018
+They Shall Not Grow Old;Warner Bros.;Documentary;5703839;626107;171;2018
+My Hero Academia: Two Heroes;FUNimation;Adventure;5427591;595783;172;2018
+Colette;Bleecker Street;Drama;5126985;562786;173;2018
+Action Point;Paramount Pictures;Comedy;5059608;555391;174;2018
+Beirut;Bleecker Street;Action;5019226;550957;175;2018
+Gringo;STX Entertainment;Black Comedy;4969853;545538;176;2018
+Samson;Pure Flix Enterta...;Drama;4719928;518104;177;2018
+Father Figures;Warner Bros.;Comedy;4615957;506691;178;2018
+Johnny English Strikes Again;Focus Features;Comedy;4412170;484322;179;2018
+If Beale Street Could Talk;Annapurna Pictures;Drama;4409248;484000;180;2018
+Blindspotting;Lionsgate;Drama;4333394;475674;181;2018
+Gotti;Vertical Entertai...;Drama;4286367;470512;182;2018
+Ya Veremos;Lionsgate;Drama;4165949;457294;183;2018
+Simmba;Reliance Entertai...;Action;4115790;451788;184;2018
+Life Itself;Amazon Studios;Drama;4095431;449553;185;2018
+Thor: Ragnarok;Walt Disney;Action;3833139;420761;186;2018
+Gosnell: The Trial of Ameri...;GVN Releasing;Drama;3679893;403939;187;2018
+Indivisible;Pure Flix Enterta...;Drama;3511417;385446;188;2018
+2018 Oscar Shorts;ShortsHD;Multiple Genres;3508777;385156;189;2018
+Disobedience;Bleecker Street;Drama;3480702;382074;190;2018
+Justice League;Warner Bros.;Action;3478000;381778;191;2018
+First Reformed;A24;Thriller/Suspense;3448256;378513;192;2018
+Juliet Naked;Roadside Attractions;Romantic Comedy;3444895;378144;193;2018
+Bad Samaritan;Electric Entertai...;Thriller/Suspense;3424744;375932;194;2018
+The Disaster Artist;A24;Comedy;3258821;357719;195;2018
+2001: A Space Odyssey;MGM;Adventure;3236321;355249;196;2018
+The Leisure Seeker;Sony Pictures Cla...;Drama;3224126;353910;197;2018
+7 Days in Entebbe;Focus Features;Thriller/Suspense;3189220;350079;198;2018
+The Sisters Brothers;Annapurna Pictures;Western;3143056;345011;199;2018
+Thoroughbreds;Focus Features;Drama;3072605;337278;200;2018
+Sgt. Stubby: An American Hero;Fun Academy Motio...;Adventure;3054285;335267;201;2018
+Avengers: Endgame;Walt Disney;Action;858373000;93708843;1;2019
+The Lion King;Walt Disney;Adventure;543638043;59349131;2;2019
+Frozen II;Walt Disney;Adventure;450439533;49174621;3;2019
+Toy Story 4;Walt Disney;Adventure;434038008;47384062;4;2019
+Captain Marvel;Walt Disney;Action;426829839;46597144;5;2019
+Star Wars: The Rise of Skyw...;Walt Disney;Adventure;390706234;42653519;6;2019
+Spider-Man: Far From Home;Sony Pictures;Action;390532085;42634507;7;2019
+Aladdin;Walt Disney;Adventure;355559216;38816508;8;2019
+Joker;Warner Bros.;Thriller/Suspense;333772511;36438047;9;2019
+It: Chapter Two;Warner Bros.;Horror;211593228;23099697;10;2019
+Jumanji: The Next Level;Sony Pictures;Adventure;192094536;20971019;11;2019
+Us;Universal;Thriller/Suspense;175084580;19114037;12;2019
+Fast & Furious Presents: Ho...;Universal;Action;173956935;18990932;13;2019
+John Wick: Chapter 3 �?Para...;Lionsgate;Action;171015687;18669834;14;2019
+How to Train Your Dragon: T...;Universal;Adventure;160799505;17554531;15;2019
+The Secret Life of Pets 2;Universal;Adventure;158874395;17344366;16;2019
+Pokémon: Detective Pikachu;Warner Bros.;Adventure;144105346;15732025;17;2019
+Once Upon a Time...in Hollywo...;Sony Pictures;Thriller/Suspense;141096530;15403551;18;2019
+Shazam!;Warner Bros.;Action;140371656;15324416;19;2019
+Aquaman;Warner Bros.;Action;136001983;14847378;20;2019
+Knives Out;Lionsgate;Drama;130119450;14205180;21;2019
+Dumbo;Walt Disney;Adventure;114766307;12529073;22;2019
+Maleficent: Mistress of Evil;Walt Disney;Adventure;113294737;12368421;23;2019
+Glass;Universal;Thriller/Suspense;111048468;12123195;24;2019
+Godzilla: King of the Monsters;Warner Bros.;Action;110500138;12063334;25;2019
+Ford v. Ferrari;20th Century Fox;Drama;109976339;12006150;26;2019
+The Upside;STX Entertainment;Comedy;108235497;11816102;27;2019
+The LEGO Movie 2: The Secon...;Warner Bros.;Adventure;105806508;11550929;28;2019
+Hustlers;STX Entertainment;Drama;104962986;11458841;29;2019
+The Addams Family;United Artists;Adventure;97185807;10609804;30;2019
+Downton Abbey;Focus Features;Drama;96853865;10573566;31;2019
+Rocketman;Paramount Pictures;Drama;96368160;10520541;32;2019
+Alita: Battle Angel;20th Century Fox;Action;85710210;9357009;33;2019
+Good Boys;Universal;Comedy;83140306;9076453;34;2019
+Men in Black: International;Sony Pictures;Adventure;80001807;8733821;35;2019
+Annabelle Comes Home;Warner Bros.;Horror;74152591;8095261;36;2019
+Yesterday;Universal;Romantic Comedy;73286650;8000726;37;2019
+Tyler Perry's A Madea Famil...;Lionsgate;Comedy;73257045;7997493;38;2019
+Zombieland: Double Tap;Sony Pictures;Comedy;73027571;7972442;39;2019
+Little Women;Sony Pictures;Drama;70502828;7696815;40;2019
+Angel Has Fallen;Lionsgate;Thriller/Suspense;69030436;7536073;41;2019
+Scary Stories to Tell in th...;Lionsgate;Horror;68947075;7526973;42;2019
+Dark Phoenix;20th Century Fox;Action;65845974;7188425;43;2019
+Terminator: Dark Fate;Paramount Pictures;Action;62253077;6796187;44;2019
+Abominable;Universal;Adventure;60679265;6624374;45;2019
+Dora and the Lost City of Gold;Paramount Pictures;Adventure;60477943;6602395;46;2019
+A Beautiful Day in the Neig...;Sony Pictures;Drama;58801961;6419428;47;2019
+Midway;Lionsgate;Action;56547282;6173284;48;2019
+Spider-Man: Into The Spider...;Sony Pictures;Adventure;56194964;6134821;49;2019
+Bumblebee;Paramount Pictures;Adventure;55769470;6088370;50;2019
+The Curse of La Llorona;Warner Bros.;Horror;54733739;5975299;51;2019
+Pet Sematary;Paramount Pictures;Horror;54724696;5974311;52;2019
+What Men Want;Paramount Pictures;Romantic Comedy;54611903;5961998;53;2019
+Green Book;Universal;Comedy;52927165;5778075;54;2019
+Ad Astra;20th Century Fox;Thriller/Suspense;50188370;5479079;55;2019
+Isn't it Romantic;Warner Bros.;Romantic Comedy;48791187;5326549;56;2019
+Gemini Man;Paramount Pictures;Action;48546770;5299865;57;2019
+Spies in Disguise;20th Century Fox;Adventure;47042421;5135635;58;2019
+MA;Universal;Horror;45896028;5010483;59;2019
+Five Feet Apart;Lionsgate;Drama;45729221;4992273;60;2019
+Wonder Park;Paramount Pictures;Adventure;45216793;4936331;61;2019
+Rambo: Last Blood;Lionsgate;Action;44819352;4892942;62;2019
+Playing with Fire;Paramount Pictures;Comedy;44406890;4847913;63;2019
+Harriet;Focus Features;Drama;42547700;4644945;64;2019
+A Dog's Way Home;Sony Pictures;Drama;41952715;4579990;65;2019
+The Angry Birds Movie 2;Sony Pictures;Adventure;41657076;4547715;66;2019
+Little;Universal;Comedy;40860481;4460751;67;2019
+Queen & Slim;Universal;Drama;40718945;4445300;68;2019
+Breakthrough;20th Century Fox;Drama;40713082;4444659;69;2019
+The Mule;Warner Bros.;Drama;39084073;4266820;70;2019
+Crawl;Paramount Pictures;Horror;39014193;4259191;71;2019
+Escape Room;Sony Pictures;Horror;38762584;4231723;72;2019
+Uncut Gems;A24;Thriller/Suspense;36556384;3990871;73;2019
+The Hustle;United Artists;Comedy;35417038;3866488;74;2019
+The Intruder;Sony Pictures;Thriller/Suspense;35388976;3863425;75;2019
+Last Christmas;Universal;Romantic Comedy;35116450;3833674;76;2019
+Overcomer;Sony Pictures;Drama;34700142;3788225;77;2019
+Mary Poppins Returns;Walt Disney;Musical;33141176;3618032;78;2019
+Cold Pursuit;Lionsgate;Thriller/Suspense;32138862;3508609;79;2019
+Doctor Sleep;Warner Bros.;Horror;31543097;3443570;80;2019
+Dragon Ball Super: Broly;FUNimation;Action;30376755;3316239;81;2019
+Long Shot;Lionsgate;Romantic Comedy;30316271;3309636;82;2019
+Child's Play;United Artists;Horror;29208403;3188690;83;2019
+Ready or Not;Fox Searchlight;Black Comedy;28714231;3134741;84;2019
+21 Bridges;STX Entertainment;Thriller/Suspense;28265017;3085700;85;2019
+Happy Death Day 2U;Universal;Thriller/Suspense;28148130;3072940;86;2019
+Midsommar;A24;Horror;27426363;2994144;87;2019
+Bohemian Rhapsody;20th Century Fox;Drama;26490206;2891943;88;2019
+The Art of Racing in the Rain;20th Century Fox;Drama;26402818;2882403;89;2019
+Countdown;STX Entertainment;Horror;25617813;2796704;90;2019
+Bombshell;Lionsgate;Drama;24589972;2684494;91;2019
+Judy;Roadside Attractions;Drama;24027755;2623117;92;2019
+Parasite;Neon;Black Comedy;23850889;2603808;93;2019
+Fighting With My Family;MGM;Comedy;22958583;2506395;94;2019
+On the Basis of Sex;Focus Features;Drama;22946065;2505029;95;2019
+A Dog's Journey;Universal;Drama;22782371;2487158;96;2019
+Booksmart;United Artists;Comedy;22680962;2476087;97;2019
+Stuber;20th Century Fox;Comedy;22370452;2442189;98;2019
+47 Meters Down: Uncaged;Entertainment Stu...;Thriller/Suspense;22260900;2430229;99;2019
+Black and Blue;Sony Pictures;Action;22012729;2403136;100;2019
+Hellboy;Lionsgate;Horror;21903748;2391238;101;2019
+Jojo Rabbit;Fox Searchlight;Black Comedy;21579550;2355846;102;2019
+Shaft;Warner Bros.;Comedy;21360215;2331901;103;2019
+The Peanut Butter Falcon;Roadside Attractions;Adventure;20457158;2233314;104;2019
+UglyDolls;STX Entertainment;Adventure;20150241;2199807;105;2019
+Cats;Universal;Musical;19970095;2180141;106;2019
+Unplanned;Pure Flix Enterta...;Drama;19005109;2074793;107;2019
+The Favourite;Fox Searchlight;Black Comedy;18478318;2017283;108;2019
+Vice;Annapurna Pictures;Black Comedy;18108785;1976941;109;2019
+Richard Jewell;Warner Bros.;Drama;17822217;1945657;110;2019
+Charlie's Angels;Sony Pictures;Action;17790181;1942159;111;2019
+The Farewell;A24;Drama;17700478;1932366;112;2019
+BrightBurn;Sony Pictures;Horror;17259427;1884216;113;2019
+The Good Liar;Warner Bros.;Thriller/Suspense;16973279;1852978;114;2019
+The Kid Who Would Be King;20th Century Fox;Adventure;16790790;1833055;115;2019
+Missing Link;United Artists;Adventure;16649539;1817635;116;2019
+Late Night;Amazon Studios;Comedy;15500045;1692144;117;2019
+Miss Bala;Sony Pictures;Action;14998027;1637339;118;2019
+The Prodigy;Orion Pictures;Horror;14856291;1621865;119;2019
+A Star is Born;Warner Bros.;Drama;14130981;1542684;120;2019
+Ralph Breaks The Internet;Walt Disney;Adventure;13939018;1521726;121;2019
+Poms;STX Entertainment;Comedy;13631124;1488113;122;2019
+They Shall Not Grow Old;Warner Bros.;Documentary;12253074;1337672;123;2019
+The Kitchen;Warner Bros.;Drama;12180032;1329698;124;2019
+After;Aviron Pictures;Drama;12138565;1325170;125;2019
+Blinded by the Light;Warner Bros.;Drama;11901145;1299252;126;2019
+The Lighthouse;A24;Horror;10809320;1180056;127;2019
+Dark Waters;Focus Features;Drama;10633879;1160904;128;2019
+Greta;Focus Features;Thriller/Suspense;10544310;1151126;129;2019
+If Beale Street Could Talk;Annapurna Pictures;Drama;10506525;1147000;130;2019
+The Best of Enemies;STX Entertainment;Drama;10205616;1114150;131;2019
+Black Christmas;Universal;Horror;9867670;1077257;132;2019
+Hotel Mumbai;Bleecker Street;Thriller/Suspense;9619500;1050163;133;2019
+Motherless Brooklyn;Warner Bros.;Drama;9277736;1012853;134;2019
+No Manches Frida 2;Lionsgate;Comedy;9270920;1012109;135;2019
+Where'd You Go Bernadette;United Artists;Comedy;9198356;1004187;136;2019
+Apollo 11;Neon;Documentary;9040224;986924;137;2019
+Serenity;Aviron Pictures;Thriller/Suspense;8547045;933083;138;2019
+Anna;Lionsgate;Action;7743794;845392;139;2019
+Penguins;Walt Disney;Documentary;7699452;840552;140;2019
+Brittany Runs a Marathon;Amazon Studios;Drama;7136342;779076;141;2019
+The Dead Don't Die;Focus Features;Horror;6782066;740400;142;2019
+Mary Queen of Scots;Focus Features;Drama;6742269;736056;143;2019
+Jexi;Lionsgate;Comedy;6546159;714646;144;2019
+Second Act;STX Entertainment;Comedy;6489861;708500;145;2019
+Run the Race;Roadside Attractions;Drama;6424420;701355;146;2019
+Free Solo;Greenwich;Documentary;6093902;665273;147;2019
+The Current War: Director's...;101 Studios;Drama;5978673;652693;148;2019
+Captive State;Focus Features;Thriller/Suspense;5958315;650471;149;2019
+The Wandering Earth;CMC Pictures;Action;5875487;641428;150;2019
+Arctic Dogs;Entertainment Stu...;Adventure;5801249;633324;151;2019
+Gloria Bell;A24;Drama;5611123;612568;152;2019
+The Mustang;Focus Features;Drama;5336840;582624;153;2019
+The Goldfinch;Warner Bros.;Drama;5332621;582164;154;2019
+Stan & Ollie;Sony Pictures Cla...;Drama;5235893;571604;155;2019
+Don't Let Go;OTL Releasing;Thriller/Suspense;5215062;569330;156;2019
+The Sun is Also a Star;Warner Bros.;Drama;4950029;540396;157;2019
+Bring the Soul: The Movie;Trafalgar Releasing;Documentary;4809800;525087;158;2019
+Pavarotti;CBS Films;Documentary;4686402;511615;159;2019
+Tolkien;Fox Searchlight;Drama;4535154;495104;160;2019
+The Last Black Man in San F...;A24;Drama;4515719;492982;161;2019
+Amazing Grace;Neon;Documentary;4450454;485857;162;2019
+Brian Banks;Bleecker Street;Drama;4376820;477818;163;2019
+The Biggest Little Farm;Neon;Documentary;4367816;476835;164;2019
+Dr. Seuss' The Grinch;Universal;Adventure;4340540;473858;165;2019
+Cold War;Amazon Studios;Drama;4307930;470298;166;2019
+Linda Ronstadt: The Sound o...;Greenwich;Documentary;4244894;463416;167;2019
+Gully Boy;Viva Entertainment;Adventure;4216437;460309;168;2019
+Uri: The Surgical Strike;PackYourBag Films;Action;4185663;456950;169;2019
+Replicas;Entertainment Stu...;Thriller/Suspense;4046429;441749;170;2019
+Pain & Glory;Sony Pictures Cla...;Drama;3967719;433157;171;2019
+Ne Zha;Well Go USA;Adventure;3695533;403442;172;2019
+Mission Mangal;FIP;Drama;3660413;399608;173;2019
+War;Yash Raj Films;Action;3640355;397418;174;2019
+2019 Oscar Shorts;ShortsHD;Multiple Genres;3531093;385490;175;2019
+The Beach Bum;Neon;Comedy;3502600;382379;176;2019
+Echo in the Canyon;Greenwich;Documentary;3355266;366295;177;2019
+Jay and Silent Bob Reboot;Fathom Events;Comedy;3258824;355766;178;2019
+Maiden;Sony Pictures Cla...;Documentary;3162490;345250;179;2019
+Honey Boy;Amazon Studios;Drama;2980099;325338;180;2019
+Friends 25th: The One With ...;Fathom Events;Comedy;2884827;314937;181;2019
+IP Man: The Finale;Well Go USA;Action;2866676;312955;182;2019
+Fantastic Beasts: The Crime...;Warner Bros.;Adventure;2774042;302843;183;2019
+Kalank;FIP;Drama;2729336;297962;184;2019
+Bharat;Viva Entertainment;Action;2684911;293112;185;2019
+Everybody Knows;Focus Features;Drama;2677805;292337;186;2019
+Tod@s Caen;Lionsgate;Romantic Comedy;2670925;291585;187;2019
+Saaho;Yash Raj Films;Action;2626284;286712;188;2019
+Instant Family;Paramount Pictures;Comedy;2518231;274916;189;2019
+The Art of Self-Defense;Bleecker Street;Comedy;2410914;263200;190;2019
+Arctic;Bleecker Street;Drama;2409826;263081;191;2019
+Welcome to Marwen;Universal;Drama;2405625;262623;192;2019
+My People, My Country;CMC Pictures;Drama;2323409;253647;193;2019
+Promare;GKIDS;Adventure;2290542;250059;194;2019
+Super 30;Reliance Entertai...;Drama;2269878;247803;195;2019
+Holmes & Watson;Sony Pictures;Comedy;2254994;246178;196;2019
+The Fall of the American Em...;Entertainment One;Comedy;2178148;237789;197;2019
+Total Dhamaal;FIP;Comedy;2167632;236641;198;2019
+Housefull 4;FIP;Romantic Comedy;2109160;230257;199;2019
+Luce;Neon;Thriller/Suspense;2010613;219499;200;2019
+Chhichhore;FIP;Comedy;2004400;218820;201;2019
+Bad Boys For Life;Sony Pictures;Action;204417855;22292023;1;2020
+1917;Universal;Thriller/Suspense;157901466;17219352;2;2020
+Sonic The Hedgehog;Paramount Pictures;Adventure;146066470;15928731;3;2020
+Jumanji: The Next Level;Sony Pictures;Adventure;124736710;13602694;4;2020
+Star Wars: The Rise of Skyw...;Walt Disney;Adventure;124496308;13576478;5;2020
+Birds of Prey (And the Fant...;Warner Bros.;Action;84158461;9177585;6;2020
+Dolittle;Universal;Adventure;77047065;8402079;7;2020
+The Invisible Man;Universal;Horror;64914050;7078958;8;2020
+The Call of the Wild;20th Century Studios;Adventure;62342368;6798513;9;2020
+Onward;Walt Disney;Adventure;61555145;6712665;10;2020
+Tenet;Warner Bros.;Action;58044165;6329788;11;2020
+Little Women;Sony Pictures;Drama;37593127;4099577;12;2020
+The Gentlemen;STX Entertainment;Action;36471796;3977295;13;2020
+Just Mercy;Warner Bros.;Drama;35733621;3896796;14;2020
+Knives Out;Lionsgate;Drama;35244610;3843468;15;2020
+The Croods: A New Age;Universal;Adventure;32334280;3526093;16;2020
+Parasite;Neon;Black Comedy;29518856;3219068;17;2020
+Frozen II;Walt Disney;Adventure;26934045;2937191;18;2020
+Fantasy Island;Sony Pictures;Horror;26441782;2883509;19;2020
+The New Mutants;20th Century Studios;Horror;23855569;2601479;20;2020
+Wonder Woman 1984;Warner Bros.;Action;23009311;2509194;21;2020
+Like a Boss;Paramount Pictures;Comedy;22169514;2417613;22;2020
+Unhinged;Solstice Studios;Thriller/Suspense;20831465;2271697;23;2020
+The Photograph;Universal;Drama;20578185;2244076;24;2020
+Spies in Disguise;20th Century Fox;Adventure;19714592;2149900;25;2020
+The War with Grandpa;101 Studios;Comedy;18861607;2056881;26;2020
+Underwater;20th Century Fox;Thriller/Suspense;17291078;1885613;27;2020
+The Turning;Universal;Horror;15472775;1687325;28;2020
+Gretel & Hansel;United Artists;Horror;15347654;1673680;29;2020
+Honest Thief;Open Road;Thriller/Suspense;14163574;1544555;30;2020
+The Way Back;Warner Bros.;Drama;13590514;1444262;31;2020
+My Hero Academia: Heroes: R...;FUNimation;Adventure;13553826;1440364;32;2020
+Uncut Gems;A24;Thriller/Suspense;13467396;1468636;33;2020
+Brahms: The Boy II;STX Entertainment;Horror;12611536;1375303;34;2020
+Jojo Rabbit;Fox Searchlight;Black Comedy;11791356;1285862;35;2020
+Impractical Jokers: The Movie;truTV;Comedy;10466091;1112230;36;2020
+I Still Believe;Lionsgate;Drama;10410004;1135223;37;2020
+Emma.;Focus Features;Drama;10055355;1096549;38;2020
+Bloodshot;Sony Pictures;Action;10021787;1092888;39;2020
+The Grudge;Sony Pictures;Horror;9812035;1070014;40;2020
+Come Play;Focus Features;Horror;9505540;1036591;41;2020
+Let Him Go;Focus Features;Thriller/Suspense;9347940;1019404;42;2020
+Freaky;Universal;Horror;8702060;948970;43;2020
+Downhill;Searchlight Pictures;Drama;8287061;903714;44;2020
+Weathering With You;GKIDS;Drama;7798703;828767;45;2020
+Ford v. Ferrari;20th Century Fox;Drama;7648018;834025;46;2020
+Cats;Universal;Musical;7196675;784806;47;2020
+Bombshell;Lionsgate;Drama;7172836;782206;48;2020
+The Hunt;Universal;Thriller/Suspense;5812500;633860;49;2020
+The Rhythm Section;Paramount Pictures;Thriller/Suspense;5437971;593017;50;2020
+Monster Hunter;Sony Pictures;Action;5018403;547263;51;2020
+The SpongeBob Movie: Sponge...;Paramount Pictures;Adventure;4810790;524622;52;2020
+Hocus Pocus;Walt Disney;Comedy;4777471;520989;53;2020
+National Lampoon's Christma...;Warner Bros.;Comedy;4593728;500951;54;2020
+Richard Jewell;Warner Bros.;Drama;4523325;493274;55;2020
+The Broken Hearts Gallery;Sony Pictures;Romantic Comedy;4066487;443455;56;2020
+Infidel;Cloudburst Entert...;Thriller/Suspense;4051990;430604;57;2020
+A Christmas Story;MGM;Comedy;3896391;424906;58;2020
+Portrait of a Lady on Fire;Neon;Drama;3759854;410016;59;2020
+News of the World;Universal;Western;3717170;405362;60;2020
+Bill & Ted Face the Music;United Artists;Comedy;3439660;375099;61;2020
+2020 Oscar Shorts;ShortsHD;Multiple Genres;3304748;351195;62;2020
+Fatale;Lionsgate;Thriller/Suspense;3089694;336935;63;2020
+Queen & Slim;Universal;Drama;3089365;336899;64;2020
+The Empty Man;20th Century Studios;Horror;2995698;326684;65;2020
+My Boyfriend's Meds;Lionsgate;Romantic Comedy;2971116;324003;66;2020
+The Last Full Measure;Roadside Attractions;Drama;2949212;321615;67;2020
+A Beautiful Day in the Neig...;Sony Pictures;Drama;2894475;315646;68;2020
+Words on Bathroom Walls;Roadside Attractions;Drama;2542518;277264;69;2020
+The Nightmare Before Christmas;Walt Disney;Musical;2286000;249291;70;2020
+The Lodge;Neon;Horror;2138907;233250;71;2020
+Half Brothers;Focus Features;Comedy;2016150;214256;72;2020
+The Personal History of Dav...;Searchlight Pictures;Drama;1876298;204612;73;2020
+The Wretched;IFC Midnight;Horror;1815440;192926;74;2020
+Joker;Warner Bros.;Thriller/Suspense;1678800;183075;75;2020
+The Rental;IFC Films;Thriller/Suspense;1637548;178576;76;2020
+Star Wars Ep. V: The Empire...;20th Century Fox;Adventure;1580209;172323;77;2020
+Once Upon a Time...in Hollywo...;Sony Pictures;Thriller/Suspense;1406198;153347;78;2020
+2 Hearts;Freestyle Releasing;Drama;1349284;147141;79;2020
+Jay and Silent Bob Reboot;Fathom Events;Comedy;1330666;145110;80;2020
+Train to Busan Presents: Pe...;Well Go USA;Horror;1224525;130130;81;2020
+Promising Young Woman;Focus Features;Black Comedy;1208180;131753;82;2020
+Met Opera �?Agrippina;Fathom Events;Concert/Perfor...;1150000;122210;83;2020
+True to the Game 2: Gena's ...;Faith Media Distr...;Thriller/Suspense;1117808;118789;84;2020
+The Assistant;Bleecker Street;Drama;1100310;116929;85;2020
+IP Man: The Finale;Well Go USA;Action;1089355;115765;86;2020
+Love and Monsters;Paramount Pictures;Adventure;1070714;116762;87;2020
+Relic;IFC Midnight;Thriller/Suspense;1047083;114185;88;2020
+The Tax Collector;RLJ Entertainment;Action;1044212;113872;89;2020
+Die Hard;20th Century Fox;Action;1036063;112983;90;2020
+Becky;Quiver;Thriller/Suspense;1002852;106573;91;2020
+Break the Silence The Movie;Trafalgar Releasing;Documentary;1000000;106269;92;2020
+Elf;New Line;Comedy;905000;98691;93;2020
+All My Life;Universal;Drama;899585;95598;94;2020
+The Song of Names;Sony Pictures Cla...;Drama;891579;97227;95;2020
+Toy Story;Walt Disney;Adventure;870305;94907;96;2020
+Met Opera: Wozzeck;Fathom Events;Concert/Perfor...;863000;91710;97;2020
+Cut Throat City;Well Go USA;Drama;855894;93336;98;2020
+Sarileru Neekevvaru;Great India Films;Action;821000;87247;99;2020
+Vanguard;Gravitas Ventures;Action;793525;84327;100;2020
+Pinocchio;Roadside Attractions;Adventure;782555;83162;101;2020
+Color Out of Space;RLJ Entertainment;Horror;765561;83485;102;2020
+Shortcut;Gravitas Ventures;Horror;758223;80576;103;2020
+Possessor;Neon;Thriller/Suspense;752885;80009;104;2020
+Coco;Walt Disney;Musical;734000;80043;105;2020
+Monsters  Inc.;Walt Disney;Adventure;726000;79171;106;2020
+Baaghi 3;FIP;Action;721439;76667;107;2020
+The Santa Clause;Walt Disney;Adventure;706000;76990;108;2020
+The Last Vermeer;Sony Pictures Cla...;Drama;685380;72835;109;2020
+The Addams Family;United Artists;Adventure;678926;74037;110;2020
+The Last Shift;Sony Pictures;Comedy;643658;68401;111;2020
+Synchronic;Well Go USA;Thriller/Suspense;636673;69429;112;2020
+Maleficent: Mistress of Evil;Walt Disney;Adventure;634868;69233;113;2020
+Chhapaak;FIP;Drama;604334;64222;114;2020
+Pain & Glory;Sony Pictures Cla...;Drama;599619;65389;115;2020
+Panga;FIP;Drama;582720;61925;116;2020
+Black Christmas;Universal;Horror;562060;61293;117;2020
+Guardians of the Galaxy;Walt Disney;Action;542000;59105;118;2020
+Alone;Magnolia Pictures;Thriller/Suspense;538358;57211;119;2020
+Followed;Global View Enter...;Horror;538179;57192;120;2020
+The Polar Express;Warner Bros.;Adventure;536000;58451;121;2020
+Harriet;Focus Features;Drama;534455;58282;122;2020
+Kajillionaire;Focus Features;Drama;531430;57953;123;2020
+The Call;Atlas Distribution;Horror;516520;54890;124;2020
+The Big Ugly;Vertical Entertai...;Action;514107;56064;125;2020
+Dark Waters;Focus Features;Drama;502205;54766;126;2020
+The Forgotten Carols;Purdie Distribution;Musical;501629;53308;127;2020
+Spell;Paramount Pictures;Horror;500104;53146;128;2020
+Ava;Vertical Entertai...;Action;497747;52895;129;2020
+CatVideoFest;Oscilloscope Pict...;Documentary;478775;50879;130;2020
+A Hidden Life;Fox Searchlight;Drama;456268;49756;131;2020
+Once Were Brothers: Robbie ...;Magnolia Pictures;Documentary;449561;47774;132;2020
+Seberg;Amazon Studios;Thriller/Suspense;448009;48855;133;2020
+Infamous;Vertical Entertai...;Action;429148;46799;134;2020
+Tulsa;Self Distributed;Drama;413522;43944;135;2020
+Buddy Games;Paramount Pictures;Comedy;405904;44264;136;2020
+Yellow Rose;Sony Pictures;Drama;367849;39091;137;2020
+The Kid Detective;Sony Pictures;Black Comedy;364138;39709;138;2020
+Greed;Sony Pictures Cla...;Comedy;355308;37758;139;2020
+Thank You For Everything;Entertainment One;Comedy;352149;37422;140;2020
+Ride Your Wave;GKIDS;Comedy;332432;36252;141;2020
+Les Misérables;Amazon Studios;Drama;330181;36006;142;2020
+Ordinary Love;Bleecker Street;Drama;323688;35298;143;2020
+How the Grinch Stole Christmas;Universal;Adventure;304000;33151;144;2020
+Save Yourselves!;Bleecker Street;Comedy;301162;32004;145;2020
+The Informer;Aviron Pictures;Thriller/Suspense;300460;32765;146;2020
+Midway;Lionsgate;Action;299520;32663;147;2020
+The Traitor;Sony Pictures Cla...;Drama;296027;32282;148;2020
+Judy;Roadside Attractions;Drama;292206;31865;149;2020
+Clemency;Neon;Drama;288343;31444;150;2020
+Created Equal: Clarence Tho...;Manifold Productions;Documentary;282149;29983;151;2020
+Missão: Vingança;Saban Films;Black Comedy;278378;30357;152;2020
+21 Bridges;STX Entertainment;Thriller/Suspense;274740;29960;153;2020
+Halloween;Compass Internati...;Horror;274000;29880;154;2020
+Mafia  Inc.;Films Seville;Drama;264552;28113;155;2020
+Tokyo Godfathers;IDP Distribution;Adventure;237581;25908;156;2020
+The Climb;Sony Pictures Cla...;Drama;234429;25564;157;2020
+The Secrets We Keep;Bleecker Street;Thriller/Suspense;231119;24560;158;2020
+Frozen;Walt Disney;Musical;215000;23446;159;2020
+Legend of Deification;Well Go USA;Adventure;214670;22812;160;2020
+Dr. Seuss' The Grinch;Universal;Adventure;214000;23336;161;2020
+Wild Mountain Thyme;Bleecker Street;Drama;213441;23276;162;2020
+Beanpole;Kino Lorber;Drama;196258;21402;163;2020
+The Doors: Break on Thru �?...;Trafalgar Releasing;Documentary;186920;19863;164;2020
+The Outpost;Screen Media Films;Action;186634;20352;165;2020
+The Wolf of Snow Hollow;Orion Classics;Horror;185026;19662;166;2020
+Come Away;Relativity;Drama;184477;20117;167;2020
+63 Up;BritBox;Documentary;183940;19547;168;2020
+The Good Liar;Warner Bros.;Thriller/Suspense;182779;19932;169;2020
+And Then We Danced;Music Box Films;Drama;177262;18837;170;2020
+No Escape;Vertical Entertai...;Horror;167962;17849;171;2020
+Extra Ordinary;Cranked Up Films;Horror;164346;17465;172;2020
+Cunningham;Magnolia Pictures;Documentary;163020;17777;173;2020
+Ammonite;Neon;Drama;160930;17549;174;2020
+A Call to Spy;IFC Films;Drama;159014;16898;175;2020
+The Dark and The Wicked;RLJ Entertainment;Horror;152261;16604;176;2020
+The Burnt Orange Heresy;Sony Pictures Cla...;Thriller/Suspense;144201;15725;177;2020
+Always & Forever;RLJ Entertainment;Thriller/Suspense;144161;15720;178;2020
+Wendy;Searchlight Pictures;Drama;143518;15251;179;2020
+Incitement;Greenwich;Thriller/Suspense;140306;14910;180;2020
+Burden;101 Studios;Drama;139270;15187;181;2020
+Lupin III: The First;GKIDS;Adventure;139066;14778;182;2020
+The Nest;IFC Films;Drama;137852;15032;183;2020
+Beneath Us;NME;Horror;137260;14586;184;2020
+Ashfall;CJ Entertainment;Action;136379;14492;185;2020
+The Times of Bill Cunningham;Greenwich;Documentary;134288;14270;186;2020
+Fantastic Fungi;Area 23a;Documentary;129130;13722;187;2020
+Alita: Battle Angel;20th Century Fox;Action;128000;13958;188;2020
+Saint Frances;Oscilloscope Pict...;Multiple Genres;127275;13879;189;2020
+Corpus Christi;Film Movement;Drama;127240;13521;190;2020
+The Man Standing Next;Capelight Pictures;Thriller/Suspense;113527;12064;191;2020
+Murder in the Woods;Rezinate Entertai...;Horror;109299;11615;192;2020
+The Muppet Christmas Carol;Walt Disney;Comedy;105400;11494;193;2020
+Hope Gap;Roadside Attractions;Drama;104732;11421;194;2020
+Honeyland;Neon;Documentary;102719;11201;195;2020
+Citizen K;Greenwich;Documentary;101762;10814;196;2020
+Archenemy;RLJ Entertainment;Action;101360;10771;197;2020
+Made in Italy;IFC Films;Drama;101339;10769;198;2020
+First Cow;A24;Drama;101068;10740;199;2020
+The Silencing;Saban Films;Thriller/Suspense;100746;10986;200;2020
+The Woman Who Loves Giraffes;Zeitgeist;Documentary;99508;10574;201;2020
+Spider-Man: No Way Home;Sony Pictures;Action;572984769;55094689;1;2021
+Shang-Chi and the Legend of...;Walt Disney;Action;224543292;24486728;2;2021
+Venom: Let There be Carnage;Sony Pictures;Action;212609036;23185282;3;2021
+Black Widow;Walt Disney;Action;183651655;20027443;4;2021
+F9: The Fast Saga;Universal;Action;173005945;18866515;5;2021
+Eternals;Walt Disney;Action;164694432;17960134;6;2021
+No Time to Die;United Artists;Action;160772007;17532388;7;2021
+A Quiet Place: Part II;Paramount Pictures;Horror;160215764;17471730;8;2021
+Ghostbusters: Afterlife;Sony Pictures;Comedy;122378960;13345579;9;2021
+Free Guy;20th Century Studios;Action;121626598;13263533;10;2021
+Jungle Cruise;Walt Disney;Adventure;116987516;12757635;11;2021
+Dune;Warner Bros.;Action;107215864;11393821;12;2021
+Godzilla vs. Kong;Warner Bros.;Action;100916094;11005027;13;2021
+Halloween Kills;Universal;Horror;92002155;10032950;14;2021
+Encanto;Walt Disney;Adventure;91386126;9711596;15;2021
+Sing 2;Universal;Adventure;90247305;9590574;16;2021
+Cruella;Walt Disney;Comedy;86103234;9389666;17;2021
+Space Jam: A New Legacy;Warner Bros.;Comedy;70592228;7698171;18;2021
+The Conjuring: The Devil Ma...;Warner Bros.;Horror;65631050;7157148;19;2021
+Candyman;Universal;Horror;61186570;6672472;20;2021
+The Boss Baby: Family Business;Universal;Adventure;57300280;6248667;21;2021
+The Addams Family 2;United Artists;Adventure;56489153;5431649;22;2021
+The Suicide Squad;Warner Bros.;Action;55817425;6086960;23;2021
+Raya and the Last Dragon;Walt Disney;Adventure;54723032;5967615;24;2021
+Demon Slayer The Movie: Mug...;FUNimation;Adventure;49888502;4796971;25;2021
+House of Gucci;United Artists;Drama;49023527;4713800;26;2021
+Clifford the Big Red Dog;Paramount Pictures;Adventure;48947356;5337771;27;2021
+Old;Universal;Thriller/Suspense;48276510;4641972;28;2021
+Tom and Jerry;Warner Bros.;Adventure;46536687;5074884;29;2021
+The Forever Purge;Universal;Horror;44539245;4857061;30;2021
+Mortal Kombat;Warner Bros.;Action;42326031;4615707;31;2021
+Peter Rabbit 2: The Runaway;Sony Pictures;Adventure;40501717;4416763;32;2021
+PAW Patrol: The Movie;Paramount Pictures;Adventure;40127371;3858401;33;2021
+The Hitman's Wife's Bodygua...;Lionsgate;Comedy;38014727;4145554;34;2021
+Don't Breathe 2;Sony Pictures;Horror;32638038;3138273;35;2021
+In the Heights;Warner Bros.;Musical;29975167;3268830;36;2021
+West Side Story;20th Century Studios;Musical;29636436;3149461;37;2021
+Snake Eyes: G.I. Joe Origins;Paramount Pictures;Action;28264325;2717724;38;2021
+The Matrix Resurrections;Warner Bros.;Action;28134634;2705253;39;2021
+Nobody;Universal;Thriller/Suspense;27568035;3006329;40;2021
+Wrath of Man;United Artists;Action;27466489;2641008;41;2021
+The Croods: A New Age;Universal;Adventure;26234535;2860909;42;2021
+Escape Room: Tournament of ...;Sony Pictures;Horror;25314753;2760606;43;2021
+Respect;United Artists;Drama;24278399;2647589;44;2021
+Wonder Woman 1984;Warner Bros.;Action;23791725;2594517;45;2021
+Spiral;Lionsgate;Horror;23216862;2531828;46;2021
+Ron's Gone Wrong;20th Century Studios;Adventure;23009270;2509190;47;2021
+Spirit Untamed;Universal;Adventure;17716215;1703482;48;2021
+The Green Knight;A24;Adventure;17173321;1872772;49;2021
+Resident Evil: Welcome to R...;Sony Pictures;Horror;16923891;1627297;50;2021
+The King's Man;20th Century Studios;Action;16258724;1773034;51;2021
+The French Dispatch;Searchlight Pictures;Comedy;15976770;1742287;52;2021
+The Marksman;Open Road;Action;15566093;1697501;53;2021
+The Unholy;Sony Pictures;Horror;15532137;1493475;54;2021
+The Little Things;Warner Bros.;Thriller/Suspense;15342746;1673146;55;2021
+Dear Evan Hansen;Universal;Musical;15002646;1636057;56;2021
+King Richard;Warner Bros.;Drama;14730278;1565385;57;2021
+Stillwater;Focus Features;Drama;14465535;1577485;58;2021
+Malignant;Warner Bros.;Horror;13391791;1287672;59;2021
+Christmas with the Chosen: ...;Fathom Events;Concert/Perfor...;13388000;1287307;60;2021
+Chaos Walking;Lionsgate;Action;13287908;1449063;61;2021
+American Underdog: The Kurt...;Lionsgate;Drama;12213600;1174385;62;2021
+The Last Duel;20th Century Studios;Drama;10853945;1043648;63;2021
+Antlers;Searchlight Pictures;Horror;10619670;1158088;64;2021
+Cry Macho;Warner Bros.;Drama;10310734;991417;65;2021
+Monster Hunter;Sony Pictures;Action;10144067;1106223;66;2021
+Last Night in Soho;Focus Features;Thriller/Suspense;10127625;973810;67;2021
+My Hero Academia: World Her...;FUNimation;Adventure;9767647;939196;68;2021
+News of the World;Universal;Western;8951155;976135;69;2021
+The Many Saints of Newark;Warner Bros.;Drama;8237403;898299;70;2021
+Dazed and Confused;Universal;Comedy;7961889;868253;71;2021
+Nightmare Alley;Searchlight Pictures;Thriller/Suspense;7580143;805541;72;2021
+The Protégé;Lionsgate;Action;7446823;716041;73;2021
+Those Who Wish Me Dead;Warner Bros.;Thriller/Suspense;7407200;807764;74;2021
+The Night House;Searchlight Pictures;Horror;7100581;774327;75;2021
+Spencer;Neon;Drama;7086632;681406;76;2021
+Belfast;Focus Features;Drama;6885925;662108;77;2021
+The Courier;Roadside Attractions;Thriller/Suspense;6613432;721203;78;2021
+Licorice Pizza;United Artists;Drama;6382891;613739;79;2021
+Judas and the Black Messiah;Warner Bros.;Drama;5478009;526732;80;2021
+Roadrunner: A Film About An...;Focus Features;Documentary;5354970;514901;81;2021
+Promising Young Woman;Focus Features;Black Comedy;5252785;572823;82;2021
+CopShop;Open Road;Action;5213243;501273;83;2021
+Zola;A24;Drama;4844399;528287;84;2021
+Separation;Open Road;Horror;4509143;491727;85;2021
+Boogie;Focus Features;Drama;4178620;401790;86;2021
+A Journal for Jordan;Sony Pictures;Drama;3905919;425945;87;2021
+Reminiscence;Warner Bros.;Thriller/Suspense;3900193;425321;88;2021
+12 Mighty Orphans;Sony Pictures Cla...;Drama;3688723;402259;89;2021
+Fatale;Lionsgate;Thriller/Suspense;3217203;350840;90;2021
+Pig;Neon;Drama;3186667;306410;91;2021
+The Girl Who Believes In Mi...;Atlas Distribution;Drama;3163362;304169;92;2021
+Voyagers;Lionsgate;Thriller/Suspense;3149935;343504;93;2021
+Minari;A24;Drama;2964816;285078;94;2021
+Dream Horse;Bleecker Street;Drama;2913328;280127;95;2021
+The House Next Door: Meet t...;HEFG Releasing;Comedy;2893660;278236;96;2021
+Here Today;Sony Pictures;Comedy;2807494;269951;97;2021
+Finding You;Roadside Attractions;Drama;2753985;264806;98;2021
+Lamb;A24;Drama;2676410;257347;99;2021
+The Card Counter;Focus Features;Thriller/Suspense;2652315;255030;100;2021
+Land;Focus Features;Drama;2577830;281116;101;2021
+The War with Grandpa;101 Studios;Comedy;2416285;263498;102;2021
+The Eyes of Tammy Faye;Searchlight Pictures;Drama;2404127;262173;103;2021
+Summer of Soul;Searchlight Pictures;Documentary;2320649;223139;104;2021
+Scoob!;Warner Bros.;Adventure;2188425;238650;105;2021
+Nomadland;Searchlight Pictures;Drama;2180000;237732;106;2021
+After We Fell;Vertical Entertai...;Drama;2170750;208725;107;2021
+The Father;Sony Pictures Cla...;Drama;2120992;231296;108;2021
+C'mon C'mon;A24;Drama;1985585;190921;109;2021
+Queen Bees;Gravitas Ventures;Comedy;1926706;185260;110;2021
+Show Me the Father;Sony Pictures;Documentary;1803226;173387;111;2021
+Profile;Focus Features;Thriller/Suspense;1744740;167763;112;2021
+Titane;Neon;Horror;1442988;138748;113;2021
+Together Together;Bleecker Street;Comedy;1436324;138108;114;2021
+Joe Bell;Roadside Attractions;Drama;1405488;153270;115;2021
+Wrong Turn;Saban Films;Horror;1251184;120306;116;2021
+Scott Pilgrim vs. The World;Universal;Comedy;1229784;134109;117;2021
+CS Lewis: The Most Reluctan...;Trafalgar Releasing;Drama;1205000;115865;118;2021
+God's Not Dead: We the Peop...;Pinnacle Peak;Drama;1170387;112537;119;2021
+In the Earth;Neon;Horror;1113722;107088;120;2021
+Pinocchio;Roadside Attractions;Adventure;1049163;100881;121;2021
+True To The Game 3;Faith Media Distr...;Thriller/Suspense;1038255;99832;122;2021
+Long Weekend;Sony Pictures;Romantic Comedy;1018532;97936;123;2021
+The Jesus Music;Lionsgate;Documentary;1016725;110875;124;2021
+Come Play;Focus Features;Horror;970450;105829;125;2021
+A Rescue of Little Eggs;Lionsgate;Comedy;927154;89149;126;2021
+Witnesses;Purdie Distribution;Drama;855765;82285;127;2021
+The Alpinist;Roadside Attractions;Documentary;844743;81225;128;2021
+Four Good Days;Vertical Entertai...;Drama;837849;80562;129;2021
+The Mauritanian;STX Entertainment;Drama;836536;80436;130;2021
+Blue Bayou;Focus Features;Drama;788675;75834;131;2021
+The Rescue;Greenwich;Documentary;787460;75717;132;2021
+Lamb of God: The Concert Film;Purdie Distribution;Concert/Perfor...;744812;71616;133;2021
+French Exit;Sony Pictures Cla...;Comedy;741895;80904;134;2021
+Red Rocket;A24;Drama;709460;68217;135;2021
+Nine Days;Sony Pictures Cla...;Drama;694849;66812;136;2021
+Our Friend;Gravitas Ventures;Drama;657511;71702;137;2021
+The Sparks Brothers;Focus Features;Documentary;648665;62372;138;2021
+Met Opera: Fire Shut Up in ...;Fathom Events;Concert/Perfor...;610000;58653;139;2021
+Werewolves Within;IFC Films;Horror;575783;55363;140;2021
+City of Lies;Saban Films;Drama;572493;62431;141;2021
+Anita;CMC Pictures;Drama;535596;51499;142;2021
+The Truffle Hunters;Sony Pictures Cla...;Documentary;521202;50115;143;2021
+Ghostbusters;Sony Pictures;Comedy;504855;55055;144;2021
+Courageous;Sony Pictures;Drama;495002;53980;145;2021
+For the Love of Money;Freestyle Releasing;Drama;480774;46228;146;2021
+National Champions;STX Entertainment;Drama;475488;45720;147;2021
+Jathi Ratnalu;Self Distributed;Comedy;460000;44230;148;2021
+Tenet;Warner Bros.;Action;459940;50157;149;2021
+Top Gun;Paramount Pictures;Action;457577;49899;150;2021
+The Lost Leonardo;Sony Pictures Cla...;Documentary;445740;42859;151;2021
+2021 Oscar Shorts;ShortsHD;Multiple Genres;443050;42600;152;2021
+Flag Day;United Artists;Drama;424667;46310;153;2021
+Willy's Wonderland;Screen Media Films;Horror;418286;40219;154;2021
+Crisis;Quiver;Thriller/Suspense;409363;44641;155;2021
+Julia;Sony Pictures Cla...;Documentary;389890;37489;156;2021
+Raging Fire;Well Go USA;Action;385305;37048;157;2021
+Ghost in the Shell;Palm Pictures;Action;373169;40694;158;2021
+The Dry;IFC Films;Thriller/Suspense;364397;39737;159;2021
+The Water Man;RLJ Entertainment;Drama;354087;38613;160;2021
+World War Z;Paramount Pictures;Action;347000;37840;161;2021
+Escape From Mogadishu;Well Go USA;Action;342598;32942;162;2021
+Benedetta;IFC Films;Drama;336050;32312;163;2021
+The Emperor's New Groove;Walt Disney;Adventure;334000;36423;164;2021
+The Battle at Lake Changjin;CMC Pictures;Action;333214;32039;165;2021
+Freaky;Universal;Horror;328795;35856;166;2021
+Drive My Car;Janus Films;Drama;328721;31607;167;2021
+Dutch;Faith Media Distr...;Thriller/Suspense;323167;31073;168;2021
+Final Account;Focus Features;Documentary;308976;29709;169;2021
+New Order;Neon;Thriller/Suspense;304167;29246;170;2021
+India Sweets and Spices;Bleecker Street;Comedy;288714;27760;171;2021
+Blithe Spirit;IFC Films;Comedy;282499;27163;172;2021
+American Skin;Vertical Entertai...;Drama;282332;27147;173;2021
+I'm Your Man;Bleecker Street;Comedy;275158;26457;174;2021
+A Mouthful of Air;Sony Pictures;Drama;269435;25907;175;2021
+Rita Moreno: Just a Girl Wh...;Roadside Attractions;Documentary;264626;25444;176;2021
+Weathering With You;GKIDS;Drama;257933;24801;177;2021
+Once I Was Engaged;Purdie Distribution;Comedy;254775;24497;178;2021
+Murder in the Woods;Rezinate Entertai...;Horror;241906;23260;179;2021
+Supernova;Bleecker Street;Drama;234220;22521;180;2021
+Becoming Cousteau;Picturehouse;Documentary;232285;22335;181;2021
+Half Brothers;Focus Features;Comedy;225830;21714;182;2021
+Limbo;Focus Features;Drama;224405;21577;183;2021
+Doctor;Hamsini;Action;220000;21153;184;2021
+Promare;GKIDS;Adventure;215318;23480;185;2021
+Together;Bleecker Street;Comedy;214390;20614;186;2021
+La piscine;Rialto Pictures;Drama;211467;20333;187;2021
+Ailey;Neon;Documentary;204512;19664;188;2021
+Groundhog Day;Sony Pictures;Romantic Comedy;200989;21918;189;2021
+The Resort;Vertical Entertai...;Horror;191996;18461;190;2021
+Earwig and the Witch;GKIDS;Adventure;173704;16702;191;2021
+Beans;Mongrel Media;Drama;171208;16462;192;2021
+I Carry You With Me;Sony Pictures Cla...;Drama;166403;16000;193;2021
+Shiva Baby;Utopia;Comedy;159294;15316;194;2021
+Heaven;LAMA Distribution;Drama;148091;14239;195;2021
+Wolf;Focus Features;Drama;147595;14192;196;2021
+SAS: Red Notice;Vertical Entertai...;Action;146329;14070;197;2021
+Bergman Island;IFC Films;Drama;145191;15833;198;2021
+Mass;Bleecker Street;Drama;145175;13959;199;2021
+The Reckoning;RLJ Entertainment;Horror;143532;13801;200;2021
+Held;Magnolia Pictures;Horror;142817;13732;201;2021
+Top Gun: Maverick;Paramount Pictures;Action;718732821;68778260;1;2022
+Black Panther: Wakanda Forever;Walt Disney;Action;438291367;41941757;2;2022
+Avatar: The Way of Water;20th Century Studios;Action;425527069;40720293;3;2022
+Doctor Strange in the Multi...;Walt Disney;Action;411331607;44856227;4;2022
+Jurassic World: Dominion;Universal;Action;376851080;41096083;5;2022
+Minions: The Rise of Gru;Universal;Comedy;369695210;40315726;6;2022
+The Batman;Warner Bros.;Action;369345583;40277599;7;2022
+Thor: Love and Thunder;Walt Disney;Action;343256830;37432587;8;2022
+Spider-Man: No Way Home;Sony Pictures;Action;241130301;23074670;9;2022
+Sonic the Hedgehog 2;Paramount Pictures;Adventure;190872904;18265350;10;2022
+Black Adam;Warner Bros.;Action;168054237;18326525;11;2022
+Elvis;Warner Bros.;Drama;151040048;16471107;12;2022
+Uncharted;Sony Pictures;Adventure;148648820;16210340;13;2022
+Nope;Universal;Horror;123277080;11796849;14;2022
+Lightyear;Walt Disney;Adventure;118307188;12901547;15;2022
+Smile;Paramount Pictures;Horror;105935048;10137325;16;2022
+The Lost City;Paramount Pictures;Adventure;105344029;10080768;17;2022
+Bullet Train;Sony Pictures;Thriller/Suspense;103368602;9891732;18;2022
+The Bad Guys;Universal;Comedy;97233630;9304653;19;2022
+Fantastic Beasts: The Secre...;Warner Bros.;Adventure;95850844;10452655;20;2022
+DC League of Super Pets;Warner Bros.;Adventure;93657117;10213426;21;2022
+Where the Crawdads Sing;Sony Pictures;Drama;90230760;8634522;22;2022
+The Black Phone;Universal;Horror;90123230;8624233;23;2022
+Sing 2;Universal;Adventure;86307835;9171927;24;2022
+Scream;Paramount Pictures;Horror;81641405;7812575;25;2022
+Morbius;Sony Pictures;Action;73865530;8055129;26;2022
+Everything Everywhere All A...;A24;Action;70008593;6699386;27;2022
+Ticket to Paradise;Universal;Romantic Comedy;68229160;6529106;28;2022
+The Woman King;Sony Pictures;Action;67178268;6428542;29;2022
+Halloween Ends;Universal;Horror;64079860;6987989;30;2022
+Dog;United Artists;Comedy;61778069;5911776;31;2022
+Puss in Boots: The Last Wish;Universal;Adventure;61222670;5858628;32;2022
+jackass forever;Paramount Pictures;Reality;57743451;5525689;33;2022
+Violent Night;Universal;Comedy;47504760;4545910;34;2022
+Lyle;Sony Pictures;Musical;46703141;4469200;35;2022
+Death on the Nile;20th Century Studios;Drama;45630104;4849107;36;2022
+Don't Worry Darling;Warner Bros.;Thriller/Suspense;45309403;4335828;37;2022
+Downton Abbey: A New Era;Focus Features;Drama;44141550;4224072;38;2022
+Barbarian;20th Century Studios;Horror;40842944;3908415;39;2022
+Strange World;Walt Disney;Adventure;36992761;4034106;40;2022
+The Menu;Searchlight Pictures;Black Comedy;36158946;3943178;41;2022
+The Northman;Focus Features;Action;34233110;3275895;42;2022
+Jujutsu Kaisen 0: The Movie;FUNimation;Action;33919605;3245895;43;2022
+Dragon Ball Super: Super Hero;Crunchyroll;Action;32132374;3074868;44;2022
+The Bob's Burgers Movie;20th Century Studios;Comedy;31933830;3482424;45;2022
+Beast;Universal;Thriller/Suspense;31846530;3047514;46;2022
+Carnal Knowledge;Avco Embassy;Drama;28630731;3122217;47;2022
+The Invitation;Sony Pictures;Horror;25100080;2401922;48;2022
+Avatar;20th Century Fox;Action;24714024;2695095;49;2022
+Ambulance;Universal;Thriller/Suspense;22781115;2180011;50;2022
+Marry Me;Universal;Romantic Comedy;22438180;2384503;51;2022
+Father Stu;Sony Pictures;Drama;21096678;2018821;52;2022
+The King's Man;20th Century Studios;Action;20917649;2281095;53;2022
+The Unbearable Weight of Ma...;Lionsgate;Action;20300157;1942598;54;2022
+Devotion;Sony Pictures;Action;19837942;1898368;55;2022
+Prey for the Devil;Lionsgate;Horror;19802293;1894956;56;2022
+Moonfall;Lionsgate;Action;19060660;2078588;57;2022
+Paws of Fury: The Legend of...;Paramount Pictures;Adventure;17811382;1704438;58;2022
+Glass Onion: A Knives Out M...;Netflix;Drama;15000000;1435406;59;2022
+Amsterdam;20th Century Studios;Comedy;14947969;1630094;60;2022
+The Chosen Season 3: Episod...;Fathom Events;Drama;14612089;1398286;61;2022
+The 355;Universal;Thriller/Suspense;14570455;1394301;62;2022
+American Underdog: The Kurt...;Lionsgate;Drama;14301214;1368537;63;2022
+RRR: Rise  Roar  Revolt;Sarigama Cinemas;Action;13930910;1333101;64;2022
+Whitney Houston I Wanna Dan...;Sony Pictures;Drama;13256913;1268604;65;2022
+Easter Sunday;Universal;Comedy;13013690;1245329;66;2022
+One Piece Film: Red;Crunchyroll;Action;12768073;1221825;67;2022
+Jaws;Universal;Horror;12257035;1336645;68;2022
+The Fabelmans;Universal;Drama;12112360;1159077;69;2022
+X;A24;Horror;11769469;1126264;70;2022
+Bros;Universal;Romantic Comedy;11628165;1112743;71;2022
+Licorice Pizza;United Artists;Drama;10935116;1046422;72;2022
+Terrifier 2;Iconic Releasing;Horror;10640105;1018191;73;2022
+Mrs. Harris Goes to Paris;Focus Features;Drama;10433915;998460;74;2022
+Firestarter;Universal;Horror;9739250;931986;75;2022
+Blacklight;Briarcliff Entert...;Action;9591094;917808;76;2022
+See How They Run;Searchlight Pictures;Comedy;9586237;917343;77;2022
+The Matrix Resurrections;Warner Bros.;Action;9552171;914083;78;2022
+Pearl;A24;Horror;9423445;901765;79;2022
+Redeeming Love;Universal;Drama;9214020;881724;80;2022
+Babylon;Paramount Pictures;Drama;9082897;869177;81;2022
+The Banshees of Inisherin;Searchlight Pictures;Drama;9048848;865918;82;2022
+Till;United Artists;Drama;9000202;861263;83;2022
+West Side Story;20th Century Studios;Musical;8893886;945152;84;2022
+Three Thousand Years of Lon...;United Artists;Drama;8286741;903679;85;2022
+Brahmastra Part 1: Shiva;Fox Star India;Adventure;7839108;750153;86;2022
+Bones and All;United Artists;Thriller/Suspense;7834907;749752;87;2022
+Men;A24;Horror;7587853;726110;88;2022
+Memory;Open Road;Action;7329043;701343;89;2022
+Fall;Lionsgate;Thriller/Suspense;7240521;692872;90;2022
+Ghostbusters: Afterlife;Sony Pictures;Comedy;6981615;761354;91;2022
+BTS Permission to Dance on ...;Trafalgar Releasing;Concert/Perfor...;6840000;654545;92;2022
+K.G.F: Chapter 2;Viva Entertainment;Action;6604562;632015;93;2022
+Marcel the Shell with Shoes On;A24;Comedy;6333703;606095;94;2022
+The Whale;A24;Drama;5855410;560326;95;2022
+She Said;Universal;Drama;5825995;557511;96;2022
+TÁR;Focus Features;Drama;5595890;535491;97;2022
+I Heard the Bells;Fathom Events;Drama;5576697;533655;98;2022
+Orphan: First Kill;Paramount Pictures;Horror;5413227;518012;99;2022
+Tucker: The Man and His Dream;Paramount Pictures;Drama;5253342;572883;100;2022
+Lifemark;Fathom Events;Drama;5007861;479221;101;2022
+Ponniyin Selvan: Part One;Sarigama Cinemas;Action;4918000;470622;102;2022
+House of Gucci;United Artists;Drama;4786047;457994;103;2022
+Mississippi Masala;Goldwyn Entertain...;Drama;4745453;517497;104;2022
+Encanto;Walt Disney;Adventure;4707496;500265;105;2022
+Clerks III;Fathom Events;Comedy;4663106;446230;106;2022
+The Cursed;LD Entertainment;Horror;4588389;500369;107;2022
+Vengeance;Focus Features;Black Comedy;4330720;414423;108;2022
+ET: The Extra-Terrestrial;Universal;Drama;4301665;469101;109;2022
+Moonage Daydream;Neon;Documentary;4266717;408298;110;2022
+Triangle of Sadness;Neon;Black Comedy;4124554;394694;111;2022
+Belle;GKIDS;Adventure;4018313;384527;112;2022
+Family Camp;Roadside Attractions;Comedy;3973263;380216;113;2022
+Cyrano;United Artists;Musical;3873124;370633;114;2022
+Nightmare Alley;Searchlight Pictures;Thriller/Suspense;3757964;399358;115;2022
+Laal Singh Chaddha;Paramount Pictures;Drama;3401324;325486;116;2022
+The Outfit;Focus Features;Drama;3344040;320003;117;2022
+The Worst Person in the World;Neon;Comedy;3034775;290409;118;2022
+Drishyam 2;Yash Raj Films;Drama;3004180;287481;119;2022
+Breaking;Bleecker Street;Thriller/Suspense;2806359;268551;120;2022
+A Journal for Jordan;Sony Pictures;Drama;2639255;287814;121;2022
+Elf;New Line;Comedy;2568160;280061;122;2022
+Honk for Jesus. Save Your S...;Focus Features;Comedy;2561270;245097;123;2022
+Mack & Rita;Gravitas Ventures;Comedy;2535459;242627;124;2022
+Studio 666;Open Road;Horror;2513963;240570;125;2022
+Crimes of the Future;Neon;Horror;2452882;234725;126;2022
+Belfast;Focus Features;Drama;2364945;226310;127;2022
+Gigi & Nate;Roadside Attractions;Drama;2280814;218259;128;2022
+The Good House;Roadside Attractions;Comedy;2219760;212417;129;2022
+Parallel Mothers;Sony Pictures Cla...;Drama;2197526;210290;130;2022
+Emily the Criminal;Roadside Attractions;Thriller/Suspense;2156296;206344;131;2022
+Umma;Sony Pictures;Horror;2121025;202969;132;2022
+The Wolf and the Lion;Blue Fox Entertai...;Adventure;2072173;198294;133;2022
+Decision to Leave;MUBI;Drama;2053383;196495;134;2022
+Jeepers Creepers: Reborn;Fathom Events;Horror;2033057;194550;135;2022
+Drive My Car;Janus Films;Drama;2023519;193638;136;2022
+Watcher;IFC Midnight;Thriller/Suspense;1961207;187675;137;2022
+Mr. Malcolm's List;Bleecker Street;Romantic Comedy;1885720;180451;138;2022
+Armageddon Time;Focus Features;Drama;1860050;177995;139;2022
+2022 Oscar Shorts;ShortsHD;Multiple Genres;1801646;172406;140;2022
+Radhe Shyam;Great India Films;Drama;1800000;172248;141;2022
+The King's Daughter;Gravitas Ventures;Adventure;1747263;190541;142;2022
+Infinite Storm;Bleecker Street;Drama;1600542;153161;143;2022
+Jugjugg Jeeyo;Moviegoers Entert...;Comedy;1540000;147368;144;2022
+The Duke;Sony Pictures Cla...;Comedy;1526970;146122;145;2022
+Running The Bases;UP2U Films;Drama;1511980;144687;146;2022
+Y Como Es El;Pantelion Films;Comedy;1500636;143601;147;2022
+The Kashmir Files;Zee Studios;Thriller/Suspense;1485000;142105;148;2022
+2000 Mules;D'Souza Media;Documentary;1465512;140240;149;2022
+The Servant;Rialto Pictures;Drama;1417550;135650;150;2022
+The Godfather;Paramount Pictures;Drama;1414662;150336;151;2022
+Acharya;Self Distributed;Action;1412000;135119;152;2022
+Spoiler Alert;Focus Features;Drama;1384003;150927;153;2022
+Medieval;The Avenue Entert...;Action;1374325;149871;154;2022
+Rogue One: A Star Wars Story;Walt Disney;Adventure;1362667;148600;155;2022
+Dune;Warner Bros.;Action;1111966;118168;156;2022
+Fire of Love;Neon;Documentary;1064080;101825;157;2022
+Hallelujah: Leonard Cohen;Sony Pictures Cla...;Documentary;1062143;101640;158;2022
+Aftersun;A24;Drama;1049372;100418;159;2022
+The Contractor;Paramount Pictures;Thriller/Suspense;1035265;112897;160;2022
+After Ever Happy;Netflix;Drama;989088;94649;161;2022
+The Beatles Get Back: The R...;Walt Disney;Concert/Perfor...;976712;93465;162;2022
+Empire of Light;Searchlight Pictures;Drama;953011;91197;163;2022
+Venom: Let There be Carnage;Sony Pictures;Action;941330;102653;164;2022
+Man of God;Fathom Events;Drama;920561;88091;165;2022
+Twenty One Pilots: Cinema E...;Trafalgar Releasing;Concert/Perfor...;875000;83732;166;2022
+Hansan: Rising Dragon;Well Go USA;Action;865888;82860;167;2022
+Johnny Cash: The Redemption...;Fathom Events;Documentary;840580;80438;168;2022
+The Tiger Rising;The Avenue Entert...;Drama;835162;79919;169;2022
+Petite maman;Neon;Drama;829065;79336;170;2022
+Evangelion: 3.0+1.01 Thrice...;GKIDS;Action;826140;79056;171;2022
+Met Opera: The Hours;Fathom Events;Drama;791374;75729;172;2022
+The Phantom of the Open;Sony Pictures Cla...;Comedy;748805;71656;173;2022
+Bodies Bodies Bodies;A24;Horror;747145;71497;174;2022
+Aline;Roadside Attractions;Drama;667815;70968;175;2022
+Ante Sundaraniki;Prime Media Pictures;Comedy;621000;59425;176;2022
+The Roundup;Capelight Pictures;Action;613026;58662;177;2022
+Official Competition;IFC Films;Comedy;593926;56835;178;2022
+The Mean One;Atlas Distribution;Horror;593635;56807;179;2022
+Cuando Sea Joven;Pantelion Films;Comedy;588028;56270;180;2022
+Runway 34;Yash Raj Films;Thriller/Suspense;549624;52595;181;2022
+Confess  Fletch;Paramount Pictures;Comedy;538842;51564;182;2022
+Call Jane;Roadside Attractions;Drama;512770;49068;183;2022
+The Quintessential Quintupl...;Crunchyroll;Romantic Comedy;502000;48038;184;2022
+God's Country;IFC Films;Drama;493679;47242;185;2022
+Deep in the Heart: A Texas ...;Fin and Fur Films;Documentary;480240;45955;186;2022
+The Railway Children;Blue Fox Entertai...;Adventure;457433;43773;187;2022
+EO;Janus Films;Drama;440046;42109;188;2022
+Brian and Charles;Focus Features;Comedy;430635;41209;189;2022
+Beast;United Artists;Action;430000;41148;190;2022
+Emergency Declaration;Well Go USA;Thriller/Suspense;412196;39444;191;2022
+King Richard;Warner Bros.;Drama;408056;43364;192;2022
+Facing Nolan;Utopia;Documentary;405797;38832;193;2022
+Superspreader;Iconic Releasing;Documentary;399370;38217;194;2022
+Yashoda;Cinegalaxy;Thriller/Suspense;395000;37799;195;2022
+Tyson's Run;Collide Distribution;Drama;391167;37432;196;2022
+The Inspection;A24;Drama;385627;36902;197;2022
+Alice;Roadside Attractions;Thriller/Suspense;373037;35697;198;2022
+Selena;Warner Bros.;Drama;360000;39258;199;2022
+Inu-Oh;GKIDS;Musical;351558;33641;200;2022
+The Forgiven;Roadside Attractions;Drama;340222;32557;201;2022
