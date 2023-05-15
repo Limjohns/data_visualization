@@ -74,6 +74,8 @@ def year2circle(year, df):
     y_ls = []
 
     for (x, y, radius) in circles:
+        x += year_coordinates[year][0]
+        y += year_coordinates[year][1]
         x_ls.append(x)
         y_ls.append(y)
 
@@ -91,14 +93,25 @@ def year2circle(year, df):
     
     return df_coordinates
 
-
+def get_all_year_coordinates(df):
+    all_df = pd.DataFrame()
+    for yr in df['releaseYear'].unique():
+        all_df = all_df.append(year2circle(yr, df))
+    return all_df
 
 
 #%% 
+<<<<<<< HEAD
 year=2016
 df  = pd.read_csv('./data/data_13_22.csv', sep=';', encoding='gbk')
 df1 = year2circle(year, df=df)
 df1.to_csv('./data/data_{}.csv'.format(year), index=False)
+=======
+data_13_22  = pd.read_csv('./data/data_13_22.csv', sep=';', encoding='gbk')
+df1 = year2circle(2013, df=data_13_22)
+all_df = get_all_year_coordinates(data_13_22)
+all_df.to_csv('./data/data_13_22_xy.csv', index=False)
+>>>>>>> bd5b7e2cadf495252a359cf06989035dbe874530
 # %%
 radii =  df1['radius'].tolist()
 fig, ax = plt.subplots()
@@ -114,7 +127,7 @@ for (x,y,radius) in circles:
     ax.add_patch(patch)
 fig.set_figheight(15)
 fig.set_figwidth(15)
-ax.set(xlim=(-500, 500), ylim=(-500, 500))
+# ax.set(xlim=(-500, 500), ylim=(-500, 500))
 plt.axis('off')
 plt.show()
 
