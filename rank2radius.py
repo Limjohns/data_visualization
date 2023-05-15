@@ -101,17 +101,14 @@ def get_all_year_coordinates(df):
 
 
 #%% 
-<<<<<<< HEAD
 year=2016
 df  = pd.read_csv('./data/data_13_22.csv', sep=';', encoding='gbk')
 df1 = year2circle(year, df=df)
 df1.to_csv('./data/data_{}.csv'.format(year), index=False)
-=======
 data_13_22  = pd.read_csv('./data/data_13_22.csv', sep=';', encoding='gbk')
 df1 = year2circle(2013, df=data_13_22)
 all_df = get_all_year_coordinates(data_13_22)
 all_df.to_csv('./data/data_13_22_xy.csv', index=False)
->>>>>>> bd5b7e2cadf495252a359cf06989035dbe874530
 # %%
 radii =  df1['radius'].tolist()
 fig, ax = plt.subplots()
