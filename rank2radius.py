@@ -59,11 +59,10 @@ year_coordinates = {
 
 def year2circle(year, df):
     '''year to circle coordinate'''
-    # year = 2013
     df_coordinates = df[df['releaseYear'] == year].copy()
 
     df_coordinates = df_coordinates.sample(frac=1)
-    df_year_circle = pd.DataFrame(data = [[np.nan] * 7], columns=df_coordinates.columns)
+    df_year_circle = pd.DataFrame(data = [[np.nan] * 8], columns=df_coordinates.columns)
     df_coordinates = df_year_circle.append(df_coordinates).reset_index(drop=True)
     df_coordinates['radius'] = df_coordinates['rank'].apply(lambda x: rank2radius(x))
 
@@ -81,16 +80,25 @@ def year2circle(year, df):
     
     df_coordinates['x'] = x_ls
     df_coordinates['y'] = y_ls
+    
+    reference_pos = year_coordinates[year]
+    center_pos = (df_coordinates.iloc[0]['x'], df_coordinates.iloc[0]['y'])
+    shift = (reference_pos[0] - center_pos[0], reference_pos[1] - center_pos[1])
 
+    df_coordinates['x'] += shift[0]
+    df_coordinates['y'] += shift[1]
+    df_coordinates = df_coordinates.iloc[1:]
+    
     return df_coordinates
 
 
 
 
 #%% 
+year=2016
 df  = pd.read_csv('./data/data_13_22.csv', sep=';', encoding='gbk')
-df1 = year2circle(2013, df=df)
-df1.to_csv('./data/data_13.csv', index=False)
+df1 = year2circle(year, df=df)
+df1.to_csv('./data/data_{}.csv'.format(year), index=False)
 # %%
 radii =  df1['radius'].tolist()
 fig, ax = plt.subplots()

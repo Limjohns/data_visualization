@@ -70,7 +70,7 @@ if(isMobile) {
 	//////////////////////////// Read in the data /////////////////////////////
 	///////////////////////////////////////////////////////////////////////////
 
-	d3.csv('data/data_coordinates.csv', function (error, data) {
+	d3.csv('data/data_2016.csv', function (error, data) {
 
 		///////////////////////////////////////////////////////////////////////////
 		///////////////////////////// Final data prep /////////////////////////////
@@ -87,7 +87,7 @@ if(isMobile) {
 		});
 		
 		//Add a few more "circles" to the data that will make room for the decade numbers
-		var decades = [1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
+		var decades = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022];
 		for(var i=0; i<decades.length; i++) {
 			data.push({
 				rank: 0,
