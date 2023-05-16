@@ -34,14 +34,11 @@ if(isMobile) {
 	///////////////////////////////////////////////////////////////////////////
 
 	var yearScale = d3.scaleLinear()
-		// .domain([1939, 2016])
-		.domain([2010, 2023])
+		.domain([1939, 2016])
 	    .range([0, widthOriginal]);
 		
 	var rScale = d3.scaleSqrt()
-		// .domain([1,10,25,50,100,250,500,1000,2000])
-		.domain([25,21,17,13,10,7,5,3,2])
-		// .domain([2, 3, 5, 7, 10, 13, 17, 21, 25])
+		.domain([1,10,25,50,100,250,500,1000,2000])
 		.range([25,21,17,13,10,7,5,3,2]);
 		
 	var colorScale = d3.scaleLinear()
@@ -73,7 +70,7 @@ if(isMobile) {
 	//////////////////////////// Read in the data /////////////////////////////
 	///////////////////////////////////////////////////////////////////////////
 
-	d3.csv('data/data_2.csv', function (error, data) {
+	d3.csv('data/data_2016.csv', function (error, data) {
 
 		///////////////////////////////////////////////////////////////////////////
 		///////////////////////////// Final data prep /////////////////////////////
@@ -90,7 +87,6 @@ if(isMobile) {
 		});
 		
 		//Add a few more "circles" to the data that will make room for the decade numbers
-		// var decades = [1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
 		var decades = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022];
 		for(var i=0; i<decades.length; i++) {
 			data.push({
@@ -312,20 +308,19 @@ if(isMobile) {
 			.attr("x", -13)
 			.attr("y", -40)
 			.text("Highest position reached in weekly Top 40");
-		
-		var ScaleOfColorLegend = 15
+
 		colorLegend.selectAll(".song-color")
 			.data(colorScale.range())
 			.enter().append("circle")
 			.attr("class", "song-color")
-			.attr("cx", function(d,i) { return 2 * i * rScale(ScaleOfColorLegend)*1.2; })
-			.attr("r", rScale(ScaleOfColorLegend))
+			.attr("cx", function(d,i) { return 2 * i * rScale(100)*1.2; })
+			.attr("r", rScale(100))
 			.style("fill", function(d) { return d; });	
 		//Add extra circle for never reached top 40
 		colorLegend.append("circle")
 			.attr("class", "song-color")
-			.attr("cx", function(d,i) { return 2 * 9 * rScale(ScaleOfColorLegend)*1.2; })
-			.attr("r", rScale(ScaleOfColorLegend))   // size of color legend
+			.attr("cx", function(d,i) { return 2 * 9 * rScale(100)*1.2; })
+			.attr("r", rScale(100))
 			.style("fill", "#e0e0e0");	
 
 		//Add text below
@@ -337,19 +332,19 @@ if(isMobile) {
 			.text("1");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 6 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 6 * rScale(100)*1.2)
 			.attr("y", 45)
 			.style("font-size", sizeFont[0])
 			.text("40");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 9 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 9 * rScale(100)*1.2)
 			.attr("y", 40)
 			.style("font-size", sizeFont[4])
 			.text("never reached");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 9 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 9 * rScale(100)*1.2)
 			.attr("y", 51)
 			.style("font-size", sizeFont[4])
 			.text("the top 40*");
