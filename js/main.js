@@ -17,7 +17,7 @@ if(isMobile) {
 	  bottom: 0,
 	  left: -350
 	};
-	var widthOriginal = 2150 - 100 - 150;
+	var widthOriginal = 2150 - 100 - 200;
 	var width = 1700 - margin.left - margin.right;
 	var height = 620 - margin.top - margin.bottom;
 		
@@ -34,18 +34,19 @@ if(isMobile) {
 	///////////////////////////////////////////////////////////////////////////
 
 	var yearScale = d3.scaleLinear()
-		// .domain([1939, 2016])
 		.domain([2010, 2023])
 	    .range([0, widthOriginal]);
 		
 	var rScale = d3.scaleSqrt()
 		// .domain([1,10,25,50,100,250,500,1000,2000])
-		.domain([25,21,17,13,10,7,5,3,2])
 		// .domain([2, 3, 5, 7, 10, 13, 17, 21, 25])
-		.range([25,21,17,13,10,7,5,3,2]);
+		// 25,21,17,13,10,7,5,3,2
+		.domain([21, 19, 17, 15, 13, 11, 9, 8, 7])
+		.range([21, 19, 17, 15, 13, 11, 9, 8, 7]);
 		
 	var colorScale = d3.scaleLinear()
-		.domain([1,6,12,18,25,32,40])
+		// .domain([1,6,12,18,25,32,40])
+		.domain([14, 15, 16, 17, 18, 19, 20])
 		.range(["#000000","#262626","#474747","#636363","#7D7D7D","#949494","#ABABAB"]);
 
 	///////////////////////////////////////////////////////////////////////////
@@ -73,7 +74,7 @@ if(isMobile) {
 	//////////////////////////// Read in the data /////////////////////////////
 	///////////////////////////////////////////////////////////////////////////
 
-	d3.csv('data/data_2.csv', function (error, data) {
+	d3.csv('data/data_13_22_v3.csv', function (error, data) {
 
 		///////////////////////////////////////////////////////////////////////////
 		///////////////////////////// Final data prep /////////////////////////////
@@ -90,7 +91,6 @@ if(isMobile) {
 		});
 		
 		//Add a few more "circles" to the data that will make room for the decade numbers
-		// var decades = [1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
 		var decades = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022];
 		for(var i=0; i<decades.length; i++) {
 			data.push({
@@ -109,7 +109,7 @@ if(isMobile) {
 		svg.append("g")
 	      .attr("class", "axis axis--x")
 	      .attr("transform", "translate(0," + (height/2) + ")")
-	      .call(d3.axisBottom(yearScale).ticks(10, ".0f"));
+	      .call(d3.axisBottom(yearScale).ticks(5, ".0f"));    // 改这里可以修改年份显示个数
 		  
 		svg.selectAll(".axis text")
 		  .attr("dy", "-0.25em");
@@ -136,7 +136,7 @@ if(isMobile) {
 		      	tooltipArtist.text(d.artist + " | " + d.releaseYear);
 		      	tooltipRank.text("Position in Top 2000: " + d.rank);
 		      	if(d.listHighestRank > 0 && d.listType !== "tip") {
-		      		tooltipTop40.text("Highest position in weekly Top 40: " + d.listHighestRank);
+		      		tooltipTop40.text("Tickets Sold: " + d.Tickets_Sold);
 		      	} else {
 		      		tooltipTop40.text("Never appeared in the Top 40");
 		      	}//else
@@ -176,7 +176,7 @@ if(isMobile) {
 				}//else
 	      	})
 		  	.style("fill", function(d) {
-			  	if(d.artist === "The Beatles") {
+			  	if(d.artist === "Universal") {
 				  	return "#46a1ef";
 			  	} else if (interestingSongs.indexOf(d.rank) > -1) {
 				  	return "#CB272E";
@@ -205,13 +205,13 @@ if(isMobile) {
 
 		//Colored piece of the "vinyl" part of the top 10
 		song
-		  .filter(function(d) { return d.rank > 0 && d.rank <= 10; })
+		  .filter(function(d) { return d.rank > 20 && d.rank <= 25; })
 		  .append("circle")
 	      .attr("r", function(d) { return rScale(d.rank)*0.35; })
 		  .style("fill", "#CB272E");
 		//White center of the "vinyl" part of the top 10
 		song
-		  .filter(function(d) { return d.rank > 0 && d.rank <= 10; })
+		  .filter(function(d) { return d.rank > 20 && d.rank <= 25; })
 		  .append("circle")
 	      .attr("r", function(d) { return rScale(d.rank)*0.065; })
 		  .style("fill", "white");
@@ -313,19 +313,19 @@ if(isMobile) {
 			.attr("y", -40)
 			.text("Highest position reached in weekly Top 40");
 		
-		var ScaleOfColorLegend = 15
+		var SongColor = 20
 		colorLegend.selectAll(".song-color")
 			.data(colorScale.range())
 			.enter().append("circle")
 			.attr("class", "song-color")
-			.attr("cx", function(d,i) { return 2 * i * rScale(ScaleOfColorLegend)*1.2; })
-			.attr("r", rScale(ScaleOfColorLegend))
+			.attr("cx", function(d,i) { return 2 * i * rScale(SongColor)*1.2; })
+			.attr("r", rScale(SongColor))
 			.style("fill", function(d) { return d; });	
 		//Add extra circle for never reached top 40
 		colorLegend.append("circle")
 			.attr("class", "song-color")
-			.attr("cx", function(d,i) { return 2 * 9 * rScale(ScaleOfColorLegend)*1.2; })
-			.attr("r", rScale(ScaleOfColorLegend))   // size of color legend
+			.attr("cx", function(d,i) { return 2 * 9 * rScale(SongColor)*1.2; })
+			.attr("r", rScale(SongColor))
 			.style("fill", "#e0e0e0");	
 
 		//Add text below
@@ -337,19 +337,19 @@ if(isMobile) {
 			.text("1");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 6 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 6 * rScale(SongColor)*1.2)
 			.attr("y", 45)
 			.style("font-size", sizeFont[0])
 			.text("40");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 9 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 9 * rScale(SongColor)*1.2)
 			.attr("y", 40)
 			.style("font-size", sizeFont[4])
 			.text("never reached");
 		colorLegend.append("text")
 			.attr("class", "song-legend-value")
-			.attr("x", 2 * 9 * rScale(ScaleOfColorLegend)*1.2)
+			.attr("x", 2 * 9 * rScale(SongColor)*1.2)
 			.attr("y", 51)
 			.style("font-size", sizeFont[4])
 			.text("the top 40*");
