@@ -69,10 +69,10 @@ a.image-link {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 }
-.song-size {
+.movie-size {
 	fill: #191919;
 }
-.song-legend-value {
+.movie-legend-value {
 	font-family: 'Montserrat', sans-serif;
 	text-anchor: middle;
 }
@@ -90,7 +90,7 @@ a.image-link {
 	opacity: 0.9;
 }
 
-.tooltip-song {
+.tooltip-movie {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 19px;
 }
