@@ -18,7 +18,7 @@ if(isMobile) {
 	};
 	var widthOriginal = 2150 - 100 - 200;
 	var width = 1700 - margin.left - margin.right;
-	var height = 720 - margin.top - margin.bottom;   ///
+	var height = 620 - margin.top - margin.bottom;
 		
 	//SVG container
 	var svg = d3.select('#chart')
@@ -98,7 +98,7 @@ if(isMobile) {
 
 		svg.append("g")
 	      .attr("class", "axis axis--x")
-	      .attr("transform", "translate(0," + (height/2 - 50) + ")")  ///
+	      .attr("transform", "translate(0," + (height/2) + ")")
 	      .call(d3.axisBottom(yearScale).ticks(5, ".0f"));    // 改这里可以修改年份显示个数
 		  
 		svg.selectAll(".axis text")

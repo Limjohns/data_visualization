@@ -1,6 +1,7 @@
 var isMobile = window.screen.width < 400 ? true : false;
 
 if(isMobile) {
+	d3.selectAll(".mobile").style("display", "inline-block");
 	d3.selectAll(".desktop").style("display", "none");
 	d3.selectAll(".outer-margin").style("margin-left", "10px").style("margin-right", "10px");
 	d3.selectAll(".title").style("font-size", "2.7em");
@@ -18,7 +19,7 @@ if(isMobile) {
 	};
 	var widthOriginal = 2150 - 100 - 200;
 	var width = 1700 - margin.left - margin.right;
-	var height = 720 - margin.top - margin.bottom;   ///
+	var height = 620 - margin.top - margin.bottom;
 		
 	//SVG container
 	var svg = d3.select('#chart')
@@ -46,29 +47,38 @@ if(isMobile) {
 	var colorScale = d3.scaleLinear()
 		// .domain([1,6,12,18,25,32,40])
 		.domain([14, 15, 16, 17, 18, 19, 20])
-		.range(["#ABABAB","#949494","#7D7D7D","#636363","#474747","#262626","#000000"]);
+		.range(["#000000","#262626","#474747","#636363","#7D7D7D","#949494","#ABABAB"]);
 
-
-	var interestingMovie = [
-		1989, 
-		363, 
-		270,
-		144, 
-		232, 
+	///////////////////////////////////////////////////////////////////////////
+	///////////////////////// Choose annotated songs //////////////////////////
+	///////////////////////////////////////////////////////////////////////////
+			
+	var interestingSongs = [
+		1989, //Oldest song - Billy Holiday
+		363, //Highest song from 2016 - Can't Stop The Feeling | Justin Timberlake
+		270, //Highest new song - Starman | David Bowie
+		144, //Highest riser - When We Were Young | Adele
+		232, //Pokemon song
 	];
 
-	//
+	//David Bowie songs
 	var DB = [7,38,87,162,182,230,270,310,379,462,472,491,523,540,576,586,612,616,778,856,961,1144,1203,1632,1736,1875];
 
-	//
+	//Prince songs
 	var PR = [13,207,254,354,404,585,640,702,721,937,1268,1365,1378,1409,1658,1761,1771];
 
-	var strokeWidthColored = 3,	
-		strokeWidthRed = 4;	
+	var strokeWidthColored = 3,	//The Beatles, Prince and David Bowie
+		strokeWidthRed = 4;		//Interesting Songs
 		
+	///////////////////////////////////////////////////////////////////////////
+	//////////////////////////// Read in the data /////////////////////////////
+	///////////////////////////////////////////////////////////////////////////
 
 	d3.csv('data/data_13_22_v4.csv', function (error, data) {
 
+		///////////////////////////////////////////////////////////////////////////
+		///////////////////////////// Final data prep /////////////////////////////
+		///////////////////////////////////////////////////////////////////////////
 		
 		if (error) throw error;
 		
@@ -98,28 +108,31 @@ if(isMobile) {
 
 		svg.append("g")
 	      .attr("class", "axis axis--x")
-	      .attr("transform", "translate(0," + (height/2 - 50) + ")")  ///
+	      .attr("transform", "translate(0," + (height/2) + ")")
 	      .call(d3.axisBottom(yearScale).ticks(5, ".0f"));    // 改这里可以修改年份显示个数
 		  
 		svg.selectAll(".axis text")
 		  .attr("dy", "-0.25em");
 
+		///////////////////////////////////////////////////////////////////////////
+		//////////////////////////// Draw the circles /////////////////////////////
+		///////////////////////////////////////////////////////////////////////////
 
-		//Wrapper for all movies
-	  	var movieWrapper = svg.append("g")
-	      .attr("class", "movie-wrapper");
+		//Wrapper for all songs
+	  	var songWrapper = svg.append("g")
+	      .attr("class", "song-wrapper");
 		  
-		//Create a group per movie
-		var movie = movieWrapper.selectAll(".movie-group")
+		//Create a group per song
+		var song = songWrapper.selectAll(".song-group")
 		  	.data(data)
 		  	.enter().append("g")
-		  	.attr("class", "movie-group")
+		  	.attr("class", "song-group")
 		  	.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
 		  	.on("mouseover", function(d) { 
 		  		//console.log(d.artist, d.title, d.releaseYear, d.rank, d.listHighestRank); 
 
 		  		//Move the tooltip to the right location
-		  		tooltipMovie.text(d.title);
+		  		tooltipSong.text(d.title);
 		      	tooltipArtist.text(d.artist + " | " + d.releaseYear);
 		      	tooltipRank.text("Position in Top 2000: " + d.rank);
 		      	if(d.listHighestRank > 0 && d.listType !== "tip") {
@@ -128,7 +141,7 @@ if(isMobile) {
 		      		tooltipTop40.text("Never appeared in the Top 40");
 		      	}//else
 		      	//Find the largest title
-		      	var maxSize = Math.max(document.getElementById("tooltipMovie").getComputedTextLength(), 
+		      	var maxSize = Math.max(document.getElementById("tooltipSong").getComputedTextLength(), 
 		      		document.getElementById("tooltipArtist").getComputedTextLength(), 
 		      		document.getElementById("tooltipRank").getComputedTextLength(),
 		      		document.getElementById("tooltipTop40").getComputedTextLength());
@@ -148,15 +161,15 @@ if(isMobile) {
 					.style("opacity", 0);
 		  	});
 
-
-			movie
-			.filter(function(d) { return d.artist === "The Beatles" || DB.indexOf(d.rank) > -1 || PR.indexOf(d.rank) > -1 || interestingMovie.indexOf(d.rank) > -1; })
+		//The colored background for some songs (since I can't do an outside stroke)
+		song
+			.filter(function(d) { return d.artist === "The Beatles" || DB.indexOf(d.rank) > -1 || PR.indexOf(d.rank) > -1 || interestingSongs.indexOf(d.rank) > -1; })
 			.append("circle")
-			.attr("class", "movie-background")
+			.attr("class", "song-background")
 	      	.attr("r", function(d) { 
 	      		if(d.artist === "The Beatles" || DB.indexOf(d.rank) > -1 || PR.indexOf(d.rank) > -1) {
 					return rScale(d.rank) + strokeWidthColored;
-				} else if(interestingMovie.indexOf(d.rank) > -1) {
+				} else if(interestingSongs.indexOf(d.rank) > -1) {
 					return rScale(d.rank) + strokeWidthRed;
 				} else {
 					return -1; //check for error
@@ -165,7 +178,7 @@ if(isMobile) {
 		  	.style("fill", function(d) {
 			  	if(d.artist === "Universal") {
 				  	return "#46a1ef";
-			  	} else if (interestingMovie.indexOf(d.rank) > -1) {
+			  	} else if (interestingSongs.indexOf(d.rank) > -1) {
 				  	return "#CB272E";
 			  	} else if (DB.indexOf(d.rank) > -1) {
 				  	return "#f1aa11";
@@ -176,9 +189,9 @@ if(isMobile) {
 			  	}//else
 		  	});
 
-		//The grey scaled circle of the movie
-		movie.append("circle")
-			.attr("class", "movie")
+		//The grey scaled circle of the song
+		song.append("circle")
+			.attr("class", "song")
 	      	.attr("r", function(d) { return rScale(d.rank); })
 		  	.style("fill", function(d) { 
 			  	if(d.type === "decade") {
@@ -190,16 +203,22 @@ if(isMobile) {
 				}//else 
 		  	});
 
-		movie
+		//Colored piece of the "vinyl" part of the top 10
+		song
 		  .filter(function(d) { return d.rank > 20 && d.rank <= 25; })
 		  .append("circle")
 	      .attr("r", function(d) { return rScale(d.rank)*0.35; })
 		  .style("fill", "#CB272E");
-		movie
+		//White center of the "vinyl" part of the top 10
+		song
 		  .filter(function(d) { return d.rank > 20 && d.rank <= 25; })
 		  .append("circle")
 	      .attr("r", function(d) { return rScale(d.rank)*0.065; })
 		  .style("fill", "white");
+
+		///////////////////////////////////////////////////////////////////////////
+		////////////////////////////// Add Tooltip ////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////
 
 		var tooltipWrapper = svg.append("g")
 		  .attr("class", "tooltip-wrapper")
@@ -219,9 +238,9 @@ if(isMobile) {
 		  .attr("y", -4)
 		  .text("");
 
-		var tooltipMovie = tooltipWrapper.append("text")
-		  .attr("class", "tooltip-movie")
-		  .attr("id", "tooltipMovie")
+		var tooltipSong = tooltipWrapper.append("text")
+		  .attr("class", "tooltip-song")
+		  .attr("id", "tooltipSong")
 		  .attr("y", 17)
 		  .text("");
 
@@ -236,7 +255,9 @@ if(isMobile) {
 		  .attr("y", 55)
 		  .text("");
 
+		///////////////////////////////////////////////////////////////////////////
 		//////////////////////////// Add size legend //////////////////////////////
+		///////////////////////////////////////////////////////////////////////////
 
 		var sizeLegend = svg.append("g")
 			.attr("class", "size-legend")
@@ -246,16 +267,15 @@ if(isMobile) {
 			.attr("class", "legend-title")
 			.attr("x", -13)
 			.attr("y", -40)
-			.text("Highest Position in Release Year");
-		
-		var rCircle = [21, 19, 17, 15, 13, 11, 9, 8, 7, 7]
-		var sizeDistance = [13,65,108,144,175,203,230,255,280,305];
-		sizeLegend.selectAll(".movie-size")
-			.data(rCircle)
+			.text("Position in Top 2000");
+
+		var sizeDistance = [13,65,108,144,175,203,230,255,280];
+		sizeLegend.selectAll(".song-size")
+			.data(rScale.range())
 			.enter().append("circle")
-			.attr("class", "movie-size")
+			.attr("class", "song-size")
 			.attr("cx", function(d,i) { return sizeDistance[i]; })
-			.attr("r", function(d,i) { return rCircle[i]; });
+			.attr("r", function(d) { return d; });
 
 		//Add small red and white circle to the first
 		sizeLegend.append("circle")
@@ -266,54 +286,73 @@ if(isMobile) {
 			.attr("cx", sizeDistance[0])
 			.attr("r", rScale.range()[0] * 0.065)
 			.style("fill", "white");
-			
+
 		//Add numbers below
-		var sizeText = [5, 10, 30, 50, 70, 90, 110, 130, 170, 200];
-		var sizeFont = [14, 13, 12, 11, 10, 9, 9, 8, 8, 7];
-		sizeLegend.selectAll(".movie-legend-value")
-			.data(rCircle)
+		var sizeFont = [14,13,12,11,10,9,9,8,8];
+		sizeLegend.selectAll(".song-legend-value")
+			.data(rScale.domain())
 			.enter().append("text")
-			.attr("class", "movie-legend-value")
+			.attr("class", "song-legend-value")
 			.attr("x", function(d,i) { return sizeDistance[i]; })
 			.attr("y", 45)
 			.style("font-size", function(d,i) { return sizeFont[i]; })
-			.text(function(d, i) { return sizeText[i]; })
+			.text(function(d) { return d; })
 
 
+		///////////////////////////////////////////////////////////////////////////
 		///////////////////////////// Add color legend ////////////////////////////
+		///////////////////////////////////////////////////////////////////////////
 
 		var colorLegend = svg.append("g")
 			.attr("class", "color-legend")
-			.attr("transform", "translate(" + 1000 + "," + -40 + ")");
+			.attr("transform", "translate(" + 790 + "," + -40 + ")");
 
 		colorLegend.append("text")
 			.attr("class", "legend-title")
 			.attr("x", -13)
 			.attr("y", -40)
-			.text("Total Gross(Million Dollars)");
+			.text("Highest position reached in weekly Top 40");
 		
-		var movieColor = 20
-		colorLegend.selectAll(".movie-color")
+		var SongColor = 20
+		colorLegend.selectAll(".song-color")
 			.data(colorScale.range())
 			.enter().append("circle")
-			.attr("class", "movie-color")
-			.attr("cx", function(d,i) { return 2 * i * rScale(movieColor)*1.2; })
-			.attr("r", rScale(movieColor))
+			.attr("class", "song-color")
+			.attr("cx", function(d,i) { return 2 * i * rScale(SongColor)*1.2; })
+			.attr("r", rScale(SongColor))
 			.style("fill", function(d) { return d; });	
+		//Add extra circle for never reached top 40
+		colorLegend.append("circle")
+			.attr("class", "song-color")
+			.attr("cx", function(d,i) { return 2 * 9 * rScale(SongColor)*1.2; })
+			.attr("r", rScale(SongColor))
+			.style("fill", "#e0e0e0");	
 
 		//Add text below
 		colorLegend.append("text")
-			.attr("class", "movie-legend-value")
+			.attr("class", "song-legend-value")
 			.attr("x", 0)
 			.attr("y", 45)
 			.style("font-size", sizeFont[0])
-			.text("0.1");
+			.text("1");
 		colorLegend.append("text")
-			.attr("class", "movie-legend-value")
-			.attr("x", 2 * 6 * rScale(movieColor)*1.2)
+			.attr("class", "song-legend-value")
+			.attr("x", 2 * 6 * rScale(SongColor)*1.2)
 			.attr("y", 45)
 			.style("font-size", sizeFont[0])
-			.text("700.0");
+			.text("40");
+		colorLegend.append("text")
+			.attr("class", "song-legend-value")
+			.attr("x", 2 * 9 * rScale(SongColor)*1.2)
+			.attr("y", 40)
+			.style("font-size", sizeFont[4])
+			.text("never reached");
+		colorLegend.append("text")
+			.attr("class", "song-legend-value")
+			.attr("x", 2 * 9 * rScale(SongColor)*1.2)
+			.attr("y", 51)
+			.style("font-size", sizeFont[4])
+			.text("the top 40*");
 
 	});//d3.csv
 

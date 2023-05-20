@@ -18,7 +18,7 @@ if(isMobile) {
 	};
 	var widthOriginal = 2150 - 100 - 200;
 	var width = 1700 - margin.left - margin.right;
-	var height = 720 - margin.top - margin.bottom;   ///
+	var height = 620 - margin.top - margin.bottom;
 		
 	//SVG container
 	var svg = d3.select('#chart')
@@ -76,6 +76,7 @@ if(isMobile) {
 			d.rank = +d.rank;
 			d.releaseYear = +d.releaseYear;
 			d.listHighestRank = +d.listHighestRank;
+			d.rank_each_year = +d.rank_each_year;
 			d.x = +d.x;
 			d.y = +d.y;
 		});
@@ -98,7 +99,7 @@ if(isMobile) {
 
 		svg.append("g")
 	      .attr("class", "axis axis--x")
-	      .attr("transform", "translate(0," + (height/2 - 50) + ")")  ///
+	      .attr("transform", "translate(0," + (height/2) + ")")
 	      .call(d3.axisBottom(yearScale).ticks(5, ".0f"));    // 改这里可以修改年份显示个数
 		  
 		svg.selectAll(".axis text")
@@ -121,7 +122,7 @@ if(isMobile) {
 		  		//Move the tooltip to the right location
 		  		tooltipMovie.text(d.title);
 		      	tooltipArtist.text(d.artist + " | " + d.releaseYear);
-		      	tooltipRank.text("Position in Top 2000: " + d.rank);
+		      	tooltipRank.text("Position in Relase Year: " + d.rank_each_year);
 		      	if(d.listHighestRank > 0 && d.listType !== "tip") {
 		      		tooltipTop40.text("Tickets Sold: " + d.Tickets_Sold);
 		      	} else {
