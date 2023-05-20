@@ -76,6 +76,7 @@ if(isMobile) {
 			d.rank = +d.rank;
 			d.releaseYear = +d.releaseYear;
 			d.listHighestRank = +d.listHighestRank;
+			d.rank_each_year = +d.rank_each_year;
 			d.x = +d.x;
 			d.y = +d.y;
 		});
@@ -121,7 +122,7 @@ if(isMobile) {
 		  		//Move the tooltip to the right location
 		  		tooltipMovie.text(d.title);
 		      	tooltipArtist.text(d.artist + " | " + d.releaseYear);
-		      	tooltipRank.text("Position in Top 2000: " + d.rank);
+		      	tooltipRank.text("Position in Relase Year: " + d.rank_each_year);
 		      	if(d.listHighestRank > 0 && d.listType !== "tip") {
 		      		tooltipTop40.text("Tickets Sold: " + d.Tickets_Sold);
 		      	} else {
