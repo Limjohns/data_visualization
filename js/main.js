@@ -247,7 +247,7 @@ if(isMobile) {
 			.attr("class", "legend-title")
 			.attr("x", -13)
 			.attr("y", -40)
-			.text("Highest Position in Release Year");
+			.text("Position in Release Year");
 		
 		var rCircle = [21, 19, 17, 15, 13, 11, 9, 8, 7, 7]
 		var sizeDistance = [13,65,108,144,175,203,230,255,280,305];
